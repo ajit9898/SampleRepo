@@ -1,0 +1,60 @@
+{
+	"entries": [
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-04-24 12:25:02.668 +0530",
+				"message": "Running WaysToBank/OurChartbots.script",
+				"identifier": "START",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "on_waystobank_ourchartbots",
+				"timestamp": "2019-04-24 12:25:05.640 +0530",
+				"message": "SEARCHRECTANGLE = (GetStarted_TL,FindyourBMOExperts_BR)",
+				"scriptName": "WaysToBank/OurChartbots.script",
+				"handlerLine": 1,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_waystobank_ourchartbots",
+				"timestamp": "2019-04-24 12:25:07.295 +0530",
+				"scriptName": "WaysToBank/OurChartbots.script",
+				"message": "at (916, 321)",
+				"image": "(TEXT:\"Our Chatbots\")",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_waystobank_ourchartbots",
+				"timestamp": "2019-04-24 12:25:07.300 +0530",
+				"message": "SEARCHRECTANGLE = ()",
+				"scriptName": "WaysToBank/OurChartbots.script",
+				"handlerLine": 3,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_waystobank_ourchartbots",
+				"timestamp": "2019-04-24 12:25:11.702 +0530",
+				"scriptName": "WaysToBank/OurChartbots.script",
+				"message": "found at (82, 53)",
+				"image": "ChromeRefresh",
+				"handlerLine": 5,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-04-24 12:25:11.706 +0530",
+				"message": "(Duration:\"9.034\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-04-24 12:25:02 +0530\", Successes:\"1\", TestCase:\"WaysToBank/OurChartbots.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-04-24 12:25:11.870 +0530",
+				"message": "Execution Time 0:00:09 WaysToBank/OurChartbots.script",
+				"identifier": "SUCCESS",
+				"handlerLine": 1
+			}
+	],
+	"createdTimestamp": "2019-04-24 06:55:02.671 +0000"
+}

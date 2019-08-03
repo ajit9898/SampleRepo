@@ -1,0 +1,5 @@
+﻿Set the SearchRectangle to ("BankAcounts_TL","BankingAcounts_BR")
+Click text:"Banking Services"
+set the searchrectangle to empty
+Wait 2
+WaitFor 30, "ChromeRefresh.png"

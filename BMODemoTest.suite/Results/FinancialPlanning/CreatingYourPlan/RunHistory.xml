@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<runHistory script="FinancialPlanning/CreatingYourPlan">
+ <run>
+  <RunDate>2019-04-09 17:26:28.524 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>5.938000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190409_172628.524/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-14 17:02:11.713 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>36.687000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190514_170211.713/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-15 14:19:48.773 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>6.050000</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190515_141948.773/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-30 14:56:43.450 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>10.298000</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190530_145643.450/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

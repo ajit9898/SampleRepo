@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Validates/CreatingPlanValidate_script" package="BMODemoTest.suite" timestamp="2019-05-14 17:02:50.547 +0530"
+ tests="1"  failures="0" errors="0" time="18.431000">
+  <properties>
+   <property name="RunDate" value="2019-05-14 17:02:50.547 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Validates/CreatingPlanValidate.script" assertions="1" status="success"  time="18.424">
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,4 @@
+﻿2019-04-09 17:26:24.248 +0530	START		Running LandingPage/FinacialPlanning.script	1	execute string	(null)
+2019-04-09 17:26:25.190 +0530	click	FinancialPlanning	at (958, 163)	1	on_landingpage_finacialplanning	LandingPage/FinacialPlanning.script
+2019-04-09 17:26:25.190 +0530	EndTestCase		(Duration:"0.932", Errors:"0", Exceptions:"0", StartTime:"2019-04-09 17:26:24 +0530", Successes:"1", TestCase:"LandingPage/FinacialPlanning.script", Warnings:"0")	1	execute string	(null)
+2019-04-09 17:26:25.290 +0530	SUCCESS		Execution Time 0:00:01 LandingPage/FinacialPlanning.script	1	execute string	(null)

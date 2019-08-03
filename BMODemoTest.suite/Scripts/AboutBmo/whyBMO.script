@@ -1,0 +1,5 @@
+﻿Set the SearchRectangle to ("CorporateInformation_TL", "HowWeHire_BR")
+Click text:"Why BMO"
+set the searchrectangle to ()
+Wait 2
+WaitFor 45, "ChromeRefresh"

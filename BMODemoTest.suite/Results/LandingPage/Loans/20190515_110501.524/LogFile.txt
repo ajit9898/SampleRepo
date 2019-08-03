@@ -1,0 +1,4 @@
+﻿2019-05-15 11:05:01.527 +0530	START		Running LandingPage/Loans.script	1	execute string	(null)
+2019-05-15 11:05:02.817 +0530	click	Loans	at (770, 154)	1	on_landingpage_loans	LandingPage/Loans.script
+2019-05-15 11:05:02.819 +0530	EndTestCase		(Duration:"1.287", Errors:"0", Exceptions:"0", StartTime:"2019-05-15 11:05:01 +0530", Successes:"1", TestCase:"LandingPage/Loans.script", Warnings:"0")	1	execute string	(null)
+2019-05-15 11:05:03.009 +0530	SUCCESS		Execution Time 0:00:01 LandingPage/Loans.script	1	execute string	(null)

@@ -1,0 +1,76 @@
+{
+	"entries": [
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-30 14:56:43.457 +0530",
+				"message": "Running FinancialPlanning/CreatingYourPlan.script",
+				"identifier": "START",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "on_financialplanning_creatingyourplan",
+				"timestamp": "2019-05-30 14:56:45.529 +0530",
+				"message": "The image PlanningtoRetire_TL was found on the screen 5 times",
+				"scriptName": "FinancialPlanning/CreatingYourPlan.script",
+				"handlerLine": 1,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_financialplanning_creatingyourplan",
+				"timestamp": "2019-05-30 14:56:46.019 +0530",
+				"message": "SEARCHRECTANGLE = (PlanningtoRetire_TL,EducationSavings_BR)",
+				"scriptName": "FinancialPlanning/CreatingYourPlan.script",
+				"handlerLine": 1,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_financialplanning_creatingyourplan",
+				"timestamp": "2019-05-30 14:56:49.021 +0530",
+				"scriptName": "FinancialPlanning/CreatingYourPlan.script",
+				"image": "Screen_Trace_0005.png",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_financialplanning_creatingyourplan",
+				"timestamp": "2019-05-30 14:56:49.101 +0530",
+				"scriptName": "FinancialPlanning/CreatingYourPlan.script",
+				"message": "at (611, 340)",
+				"image": "(TEXT:\"Creating your Plan\")",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_financialplanning_creatingyourplan",
+				"timestamp": "2019-05-30 14:56:49.117 +0530",
+				"message": "SEARCHRECTANGLE = ",
+				"scriptName": "FinancialPlanning/CreatingYourPlan.script",
+				"handlerLine": 3,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_financialplanning_creatingyourplan",
+				"timestamp": "2019-05-30 14:56:53.745 +0530",
+				"scriptName": "FinancialPlanning/CreatingYourPlan.script",
+				"message": "found at (82, 53)",
+				"image": "ChromeRefresh.png",
+				"handlerLine": 5,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-30 14:56:53.751 +0530",
+				"message": "(Duration:\"10.287\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-05-30 14:56:43 +0530\", Successes:\"1\", TestCase:\"FinancialPlanning/CreatingYourPlan.script\", Warnings:\"1\")",
+				"identifier": "EndTestCase",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-30 14:56:53.926 +0530",
+				"message": "Execution Time 0:00:10 FinancialPlanning/CreatingYourPlan.script",
+				"identifier": "SUCCESS",
+				"handlerLine": 1
+			}
+	],
+	"createdTimestamp": "2019-05-30 09:26:43.460 +0000"
+}

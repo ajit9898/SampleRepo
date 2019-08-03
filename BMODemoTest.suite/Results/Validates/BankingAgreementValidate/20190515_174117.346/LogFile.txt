@@ -1,0 +1,7 @@
+﻿2019-05-15 17:41:17.349 +0530	START		Running Validates/BankingAgreementValidate.script	1	execute string	(null)
+2019-05-15 17:41:17.360 +0530	set		IMAGEUPDATE = Off	1	on_validates_bankingagreementvalidate	Validates/BankingAgreementValidate.script
+2019-05-15 17:41:20.988 +0530	LogWarning		The image (CaseSensitive:"No", Contrast:"Off", DPI:"72", EnableAggressiveTextExtraction:"No", EnhanceLocalContrast:"No", IgnoreNewLines:"No", IgnoreSpaces:"No", Language:"English", text:"Banking Agreements", TextPlatform:"Generic OCR", TextStyleName:"Default", ValidCharacters:"", ValidPattern:"", ValidWords:"") was found on the screen 2 times	2	on_validates_bankingagreementvalidate	Validates/BankingAgreementValidate.script
+2019-05-15 17:41:20.991 +0530	imagefound	(TEXT:"Banking Agreements")	found at (626, 314)	2	on_validates_bankingagreementvalidate	Validates/BankingAgreementValidate.script
+2019-05-15 17:41:20.997 +0530	LogSuccess		Page validated	3	on_validates_bankingagreementvalidate	Validates/BankingAgreementValidate.script
+2019-05-15 17:41:21.004 +0530	EndTestCase		(Duration:"3.647", Errors:"0", Exceptions:"0", StartTime:"2019-05-15 17:41:17 +0530", Successes:"1", TestCase:"Validates/BankingAgreementValidate.script", Warnings:"1")	1	execute string	(null)
+2019-05-15 17:41:21.156 +0530	SUCCESS		Execution Time 0:00:04 Validates/BankingAgreementValidate.script	1	execute string	(null)

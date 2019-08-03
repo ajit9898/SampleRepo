@@ -1,0 +1,7 @@
+﻿2019-05-15 17:25:54.686 +0530	START		Running Validates/LoanCalcValidate.script	1	execute string	(null)
+2019-05-15 17:25:54.709 +0530	set		IMAGEUPDATE = Off	1	on_validates_loancalcvalidate	Validates/LoanCalcValidate.script
+2019-05-15 17:25:54.872 +0530	imagefound	Interestrate_LoanCalcpage	found at (541, 657)	2	on_validates_loancalcvalidate	Validates/LoanCalcValidate.script
+2019-05-15 17:25:54.875 +0530	LogSuccess		we found the image	3	on_validates_loancalcvalidate	Validates/LoanCalcValidate.script
+2019-05-15 17:25:54.920 +0530	waitfor	ChromeRefresh	found at (82, 53)	16	on_validates_loancalcvalidate	Validates/LoanCalcValidate.script
+2019-05-15 17:25:54.920 +0530	EndTestCase		(Duration:"0.228", Errors:"0", Exceptions:"0", StartTime:"2019-05-15 17:25:54 +0530", Successes:"1", TestCase:"Validates/LoanCalcValidate.script", Warnings:"0")	1	execute string	(null)
+2019-05-15 17:25:55.034 +0530	SUCCESS		Execution Time 0:00:00 Validates/LoanCalcValidate.script	1	execute string	(null)

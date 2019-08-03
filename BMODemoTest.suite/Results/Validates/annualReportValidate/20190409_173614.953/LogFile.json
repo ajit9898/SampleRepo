@@ -1,0 +1,43 @@
+{
+	"entries": [
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-04-09 17:36:14.973 +0530",
+				"message": "Running Validates/annualReportValidate.script",
+				"identifier": "START",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "on_validates_annualreportvalidate",
+				"timestamp": "2019-04-09 17:36:15.909 +0530",
+				"scriptName": "Validates/annualReportValidate.script",
+				"message": "found at (674, 494)",
+				"image": "Download",
+				"handlerLine": 1,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validates_annualreportvalidate",
+				"timestamp": "2019-04-09 17:36:15.909 +0530",
+				"message": "Page validated",
+				"scriptName": "Validates/annualReportValidate.script",
+				"handlerLine": 2,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-04-09 17:36:15.909 +0530",
+				"message": "(Duration:\"0.926\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-04-09 17:36:14 +0530\", Successes:\"1\", TestCase:\"Validates/annualReportValidate.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-04-09 17:36:16.190 +0530",
+				"message": "Execution Time 0:00:01 Validates/annualReportValidate.script",
+				"identifier": "SUCCESS",
+				"handlerLine": 1
+			}
+	],
+	"createdTimestamp": "2019-04-09 12:06:14.973 +0000"
+}

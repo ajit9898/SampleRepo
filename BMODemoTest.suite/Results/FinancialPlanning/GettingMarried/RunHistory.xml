@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<runHistory script="FinancialPlanning/GettingMarried">
+ <run>
+  <RunDate>2019-05-15 14:18:26.993 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>25.622000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190515_141826.993/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-15 17:39:10.151 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>20.566000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190515_173910.151/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-15 17:42:54.387 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>17.697000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190515_174254.387/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

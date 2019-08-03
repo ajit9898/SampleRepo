@@ -1,0 +1,13 @@
+﻿2019-05-30 14:56:30.503 +0530	START		Running LaunchApp/NavigateToBMO.script	1	execute string	(null)
+2019-05-30 14:56:30.556 +0530	connect		M_Wind:(null)	1	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-05-30 14:56:30.563 +0530	show		Remote	2	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-05-30 14:56:30.588 +0530	typetext		[windowsKey]r	3	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-05-30 14:56:31.371 +0530	typetext		Chrome[return]	4	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-05-30 14:56:33.381 +0530	tracescreen		On (Screen_Trace)	6	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-05-30 14:56:34.610 +0530	typetext	Screen_Trace_0001.png		8	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-05-30 14:56:35.022 +0530	typetext		https://www.bmo.com/main/personal[return]	8	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-05-30 14:56:35.224 +0530	typetext	Screen_Trace_0002.png		9	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-05-30 14:56:35.746 +0530	typetext		[windowsKey][upArrow]	9	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-05-30 14:56:37.385 +0530	waitfor	BMOLogo	found at (158, 173)	11	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-05-30 14:56:37.390 +0530	EndTestCase		(Duration:"6.881", Errors:"0", Exceptions:"0", StartTime:"2019-05-30 14:56:30 +0530", Successes:"1", TestCase:"LaunchApp/NavigateToBMO.script", Warnings:"0")	1	execute string	(null)
+2019-05-30 14:56:37.498 +0530	SUCCESS		Execution Time 0:00:07 LaunchApp/NavigateToBMO.script	1	execute string	(null)

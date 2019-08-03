@@ -1,0 +1,6 @@
+﻿2019-05-30 14:54:32.272 +0530	START		Running Loan/LoanCalculator.script	1	execute string	(null)
+2019-05-30 14:54:32.353 +0530	set		IMAGEUPDATE = Off	2	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-05-30 14:54:40.227 +0530	imagefound	(TEXT:"Loans Calculator")	found at (466, 475)	3	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-05-30 14:54:40.311 +0530	click		at (466, 475)	4	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-05-30 14:54:40.317 +0530	EndTestCase		(Duration:"8.035", Errors:"0", Exceptions:"0", StartTime:"2019-05-30 14:54:32 +0530", Successes:"1", TestCase:"Loan/LoanCalculator.script", Warnings:"0")	1	execute string	(null)
+2019-05-30 14:54:40.534 +0530	SUCCESS		Execution Time 0:00:08 Loan/LoanCalculator.script	1	execute string	(null)

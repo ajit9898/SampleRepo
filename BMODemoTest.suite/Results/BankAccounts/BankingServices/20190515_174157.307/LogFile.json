@@ -1,0 +1,60 @@
+{
+	"entries": [
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 17:41:57.309 +0530",
+				"message": "Running BankAccounts/BankingServices.script",
+				"identifier": "START",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "on_bankaccounts_bankingservices",
+				"timestamp": "2019-05-15 17:41:58.236 +0530",
+				"message": "SEARCHRECTANGLE = (BankAcounts_TL,BankingAcounts_BR)",
+				"scriptName": "BankAccounts/BankingServices.script",
+				"handlerLine": 1,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_bankaccounts_bankingservices",
+				"timestamp": "2019-05-15 17:41:58.886 +0530",
+				"scriptName": "BankAccounts/BankingServices.script",
+				"message": "at (863, 362)",
+				"image": "(TEXT:\"Banking Services\")",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_bankaccounts_bankingservices",
+				"timestamp": "2019-05-15 17:41:58.890 +0530",
+				"message": "SEARCHRECTANGLE = ",
+				"scriptName": "BankAccounts/BankingServices.script",
+				"handlerLine": 3,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_bankaccounts_bankingservices",
+				"timestamp": "2019-05-15 17:42:14.430 +0530",
+				"scriptName": "BankAccounts/BankingServices.script",
+				"message": "found at (82, 53)",
+				"image": "ChromeRefresh.png",
+				"handlerLine": 5,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 17:42:14.434 +0530",
+				"message": "(Duration:\"17.12\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-05-15 17:41:57 +0530\", Successes:\"1\", TestCase:\"BankAccounts/BankingServices.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 17:42:14.597 +0530",
+				"message": "Execution Time 0:00:17 BankAccounts/BankingServices.script",
+				"identifier": "SUCCESS",
+				"handlerLine": 1
+			}
+	],
+	"createdTimestamp": "2019-05-15 12:11:57.312 +0000"
+}

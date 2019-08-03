@@ -1,0 +1,51 @@
+{
+	"entries": [
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 17:40:24.573 +0530",
+				"message": "Running WaysToBank/OurChartbots.script",
+				"identifier": "START",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "on_waystobank_ourchartbots",
+				"timestamp": "2019-05-15 17:40:24.581 +0530",
+				"message": "IMAGEUPDATE = Off",
+				"scriptName": "WaysToBank/OurChartbots.script",
+				"handlerLine": 1,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_waystobank_ourchartbots",
+				"timestamp": "2019-05-15 17:40:33.030 +0530",
+				"scriptName": "WaysToBank/OurChartbots.script",
+				"message": "found at (916, 339)",
+				"image": "(TEXT:\"Our Chatbots\")",
+				"handlerLine": 3,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_waystobank_ourchartbots",
+				"timestamp": "2019-05-15 17:40:33.281 +0530",
+				"message": "at (916, 339)",
+				"scriptName": "WaysToBank/OurChartbots.script",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 17:40:33.286 +0530",
+				"message": "(Duration:\"8.706\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-05-15 17:40:24 +0530\", Successes:\"1\", TestCase:\"WaysToBank/OurChartbots.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 17:40:33.470 +0530",
+				"message": "Execution Time 0:00:09 WaysToBank/OurChartbots.script",
+				"identifier": "SUCCESS",
+				"handlerLine": 1
+			}
+	],
+	"createdTimestamp": "2019-05-15 12:10:24.577 +0000"
+}

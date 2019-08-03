@@ -1,0 +1,8 @@
+﻿2019-05-30 14:57:54.730 +0530	START		Running LandingPage/WayToBank.script	1	execute string	(null)
+2019-05-30 14:57:54.781 +0530	set		IMAGEUPDATE = Off	2	on_landingpage_waytobank	LandingPage/WayToBank.script
+2019-05-30 14:58:01.862 +0530	imagefound	Screen_Trace_0003.png		3	on_landingpage_waytobank	LandingPage/WayToBank.script
+2019-05-30 14:58:01.865 +0530	imagefound	(TEXT:"Ways to")	found at (1137, 164)	3	on_landingpage_waytobank	LandingPage/WayToBank.script
+2019-05-30 14:58:03.781 +0530	click	Screen_Trace_0004.png		4	on_landingpage_waytobank	LandingPage/WayToBank.script
+2019-05-30 14:58:03.864 +0530	click		at (1137, 164)	4	on_landingpage_waytobank	LandingPage/WayToBank.script
+2019-05-30 14:58:03.877 +0530	EndTestCase		(Duration:"9.136", Errors:"0", Exceptions:"0", StartTime:"2019-05-30 14:57:54 +0530", Successes:"1", TestCase:"LandingPage/WayToBank.script", Warnings:"0")	1	execute string	(null)
+2019-05-30 14:58:04.056 +0530	SUCCESS		Execution Time 0:00:09 LandingPage/WayToBank.script	1	execute string	(null)

@@ -1,0 +1,9 @@
+﻿
+Set the imageUpdate to off
+If ImageFound(text:"Ways to") then
+	click FoundImageLocation()
+Else
+	click"WaystoBank"
+End if
+
+

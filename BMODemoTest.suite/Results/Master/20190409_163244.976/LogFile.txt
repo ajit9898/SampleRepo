@@ -1,0 +1,40 @@
+﻿2019-04-09 16:32:44.986 +0530	START		Running Master.script
+2019-04-09 16:32:45.096 +0530	connect		AjitSystem:(null)	1	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-04-09 16:32:45.096 +0530	show		Remote	2	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-04-09 16:32:45.126 +0530	typetext		[windowsKey]r	3	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-04-09 16:32:45.976 +0530	typetext		Chrome[return]	4	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-04-09 16:32:48.666 +0530	typetext		https://www.bmo.com/main/personal[return]	6	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-04-09 16:32:49.396 +0530	typetext		[windowsKey][upArrow]	7	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-04-09 16:32:50.606 +0530	waitfor	BMOLogo	found at (166, 164)	9	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-04-09 16:32:54.266 +0530	click	Loans	at (776, 163)	1	on_landingpage_loans	LandingPage/Loans.script
+2019-04-09 16:32:56.406 +0530	set		SEARCHRECTANGLE = (LoanCal_TL,LoanCalc_BR)	2	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-04-09 16:32:56.956 +0530	click	(TEXT:"Loan Calculators")	at (842, 395)	3	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-04-09 16:32:56.956 +0530	set		SEARCHRECTANGLE = ()	4	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-04-09 16:33:20.220 +0530	waitfor	ChromeRefresh	found at (82, 53)	6	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-04-09 16:33:21.070 +0530	imagefound	Amortization	found at (35, 226)	2	on_validates_loancalcvalidate	Validates/LoanCalcValidate.script
+2019-04-09 16:33:21.080 +0530	LogSuccess		we found the image	3	on_validates_loancalcvalidate	Validates/LoanCalcValidate.script
+2019-04-09 16:33:21.960 +0530	waitfor	closeButtonLoanPage	found at (561, 95)	10	on_validates_loancalcvalidate	Validates/LoanCalcValidate.script
+2019-04-09 16:33:23.010 +0530	click	closeButtonLoanPage	at (561, 95)	11	on_validates_loancalcvalidate	Validates/LoanCalcValidate.script
+2019-04-09 16:33:23.150 +0530	waitfor	ChromeRefresh	found at (82, 53)	12	on_validates_loancalcvalidate	Validates/LoanCalcValidate.script
+2019-04-09 16:33:25.530 +0530	click	BankAccounts	at (499, 165)	1	on_landingpage_bankaccounts	LandingPage/BankAccounts.script
+2019-04-09 16:33:27.260 +0530	click	FeaturesToBAg	at (868, 372)	3	on_bankaccounts_bankingagreements	BankAccounts/BankingAgreements.script
+2019-04-09 16:33:41.626 +0530	waitfor	ChromeRefresh.png	found at (82, 53)	8	on_bankaccounts_bankingagreements	BankAccounts/BankingAgreements.script
+2019-04-09 16:33:47.676 +0530	imagefound	(TEXT:"Banking Fees")	found at (675, 314)	1	on_validates_bankingagreementvalidate	Validates/BankingAgreementValidate.script
+2019-04-09 16:33:47.676 +0530	LogSuccess		Page validated	2	on_validates_bankingagreementvalidate	Validates/BankingAgreementValidate.script
+2019-04-09 16:33:48.596 +0530	click	BrowserBack	at (15, 50)	1	on_backbr	BackBR.script
+2019-04-09 16:33:48.816 +0530	waitfor	ChromeRefresh	found at (82, 53)	2	on_backbr	BackBR.script
+2019-04-09 16:33:54.396 +0530	click	BankAccounts	at (499, 165)	1	on_landingpage_bankaccounts	LandingPage/BankAccounts.script
+2019-04-09 16:33:55.806 +0530	set		SEARCHRECTANGLE = (BankAcounts_TL,BankingAcounts_BR)	1	on_bankaccounts_bankingservices	BankAccounts/BankingServices.script
+2019-04-09 16:33:57.266 +0530	click	(TEXT:"Banking Services")	at (863, 344)	2	on_bankaccounts_bankingservices	BankAccounts/BankingServices.script
+2019-04-09 16:33:57.266 +0530	set		SEARCHRECTANGLE = 	3	on_bankaccounts_bankingservices	BankAccounts/BankingServices.script
+2019-04-09 16:34:05.836 +0530	waitfor	ChromeRefresh.png	found at (82, 53)	5	on_bankaccounts_bankingservices	BankAccounts/BankingServices.script
+2019-04-09 16:34:11.698 +0530	LogWarning		The image (CaseSensitive:"No", Contrast:"Off", DPI:"72", EnableAggressiveTextExtraction:"No", EnhanceLocalContrast:"No", IgnoreNewLines:"No", IgnoreSpaces:"No", Language:"English", text:"Banking Services", TextPlatform:"Generic OCR", TextStyleName:"Default", ValidCharacters:"", ValidPattern:"", ValidWords:"") was found on the screen 2 times	1	on_validates_bankingservicesvalidate	Validates/BankingServicesValidate.script
+2019-04-09 16:34:11.708 +0530	imagefound	(TEXT:"Banking Services")	found at (87, 17)	1	on_validates_bankingservicesvalidate	Validates/BankingServicesValidate.script
+2019-04-09 16:34:11.708 +0530	LogSuccess		Page validated	2	on_validates_bankingservicesvalidate	Validates/BankingServicesValidate.script
+2019-04-09 16:34:12.709 +0530	click	BrowserBack	at (15, 50)	1	on_backbr	BackBR.script
+2019-04-09 16:34:12.939 +0530	waitfor	ChromeRefresh	found at (82, 53)	2	on_backbr	BackBR.script
+2019-04-09 16:34:13.919 +0530	click	FinancialPlanning	at (913, 164)	1	on_landingpage_finacialplanning	LandingPage/FinacialPlanning.script
+2019-04-09 16:34:14.789 +0530	LogWarning		The image PlanningtoRetire_TL was found on the screen 10 times	1	on_financialplanning_gettingmarried	FinancialPlanning/GettingMarried.script
+2019-04-09 16:34:15.289 +0530	set		SEARCHRECTANGLE = (PlanningtoRetire_TL,EducationSavings_BR)	1	on_financialplanning_gettingmarried	FinancialPlanning/GettingMarried.script
+2019-04-09 16:34:42.854 +0530	EndTestCase		(Duration:"117.828", Errors:"1", Exceptions:"0", StartTime:"2019-04-09 16:32:45 +0530", Successes:"3", TestCase:"Master.script", Warnings:"2")
+2019-04-09 16:34:42.924 +0530	ABORTED		Execution Time 0:01:58 Master.script

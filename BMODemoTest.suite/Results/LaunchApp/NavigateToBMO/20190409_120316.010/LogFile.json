@@ -1,0 +1,60 @@
+{
+	"entries": [
+		{
+				"message": "Running NavigateToBMO.script",
+				"identifier": "START",
+				"timestamp": "2019-04-09 12:03:16.016 +0530"
+			},
+		{
+				"handlerName": "on_navigatetobmo",
+				"timestamp": "2019-04-09 12:03:18.003 +0530",
+				"message": "AjitSystem:(null)",
+				"scriptName": "NavigateToBMO.script",
+				"handlerLine": 1,
+				"identifier": "connect"
+			},
+		{
+				"handlerName": "on_navigatetobmo",
+				"timestamp": "2019-04-09 12:03:18.005 +0530",
+				"message": "Remote",
+				"scriptName": "NavigateToBMO.script",
+				"handlerLine": 2,
+				"identifier": "show"
+			},
+		{
+				"handlerName": "on_navigatetobmo",
+				"timestamp": "2019-04-09 12:03:18.028 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "NavigateToBMO.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_navigatetobmo",
+				"timestamp": "2019-04-09 12:03:18.807 +0530",
+				"message": "Chrome[return]",
+				"scriptName": "NavigateToBMO.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_navigatetobmo",
+				"timestamp": "2019-04-09 12:03:21.187 +0530",
+				"message": "https://www.bmo.com/main/personal[return]",
+				"scriptName": "NavigateToBMO.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"5.076\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-04-09 12:03:16 +0530\", Successes:\"1\", TestCase:\"NavigateToBMO.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2019-04-09 12:03:21.262 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:05 NavigateToBMO.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2019-04-09 12:03:21.366 +0530"
+			}
+	],
+	"createdTimestamp": "2019-04-09 06:33:16.033 +0000"
+}

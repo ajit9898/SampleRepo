@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Master_script" package="BMODemoTest.suite" timestamp="2019-05-15 09:57:17.262 +0530"
+ tests="1"  failures="1" errors="0" time="127.191000">
+  <properties>
+   <property name="RunDate" value="2019-05-15 09:57:17.262 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Master.script" assertions="1" status="failure"  time="126.913">
+    <failure type="FAILURE" message="Image Not Found set Error - Unable To Find Image: LoanCal_TL -- Execution Time 0:02:07 Master.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

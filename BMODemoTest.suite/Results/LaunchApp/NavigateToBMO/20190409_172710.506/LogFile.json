@@ -1,0 +1,83 @@
+{
+	"entries": [
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-04-09 17:27:10.516 +0530",
+				"message": "Running LaunchApp/NavigateToBMO.script",
+				"identifier": "START",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-04-09 17:27:10.526 +0530",
+				"message": "AjitSystem:(null)",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 1,
+				"identifier": "connect"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-04-09 17:27:10.526 +0530",
+				"message": "Remote",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 2,
+				"identifier": "show"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-04-09 17:27:10.556 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-04-09 17:27:11.409 +0530",
+				"message": "Chrome[return]",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-04-09 17:27:14.109 +0530",
+				"message": "https://www.bmo.com/main/personal[return]",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-04-09 17:27:14.846 +0530",
+				"message": "[windowsKey][upArrow]",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 7,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-04-09 17:27:15.701 +0530",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"message": "found at (158, 164)",
+				"image": "BMOLogo",
+				"handlerLine": 9,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-04-09 17:27:15.701 +0530",
+				"message": "(Duration:\"5.185\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-04-09 17:27:10 +0530\", Successes:\"1\", TestCase:\"LaunchApp/NavigateToBMO.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-04-09 17:27:15.825 +0530",
+				"message": "Execution Time 0:00:05 LaunchApp/NavigateToBMO.script",
+				"identifier": "SUCCESS",
+				"handlerLine": 1
+			}
+	],
+	"createdTimestamp": "2019-04-09 11:57:10.516 +0000"
+}

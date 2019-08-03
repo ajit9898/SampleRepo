@@ -1,0 +1,87 @@
+{
+	"entries": [
+		{
+				"message": "Running Master.script",
+				"identifier": "START",
+				"timestamp": "2019-05-15 09:57:17.267 +0530"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-05-15 09:57:18.172 +0530",
+				"message": "M_Wind:(null)",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 1,
+				"identifier": "connect"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-05-15 09:57:18.522 +0530",
+				"message": "Remote",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 2,
+				"identifier": "show"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-05-15 09:57:18.550 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-05-15 09:57:19.340 +0530",
+				"message": "Chrome[return]",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-05-15 09:57:21.822 +0530",
+				"message": "https://www.bmo.com/main/personal[return]",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-05-15 09:57:22.545 +0530",
+				"message": "[windowsKey][upArrow]",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 7,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-05-15 09:57:27.652 +0530",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"message": "found at (158, 173)",
+				"image": "BMOLogo",
+				"handlerLine": 9,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_landingpage_loans",
+				"timestamp": "2019-05-15 09:58:04.723 +0530",
+				"scriptName": "LandingPage/Loans.script",
+				"message": "at (770, 154)",
+				"image": "Loans",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"126.913\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2019-05-15 09:57:17 +0530\", Successes:\"0\", TestCase:\"Master.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2019-05-15 09:59:24.473 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found set Error - Unable To Find Image: LoanCal_TL -- Execution Time 0:02:07 Master.script",
+				"identifier": "FAILURE",
+				"timestamp": "2019-05-15 09:59:25.278 +0530"
+			}
+	],
+	"createdTimestamp": "2019-05-15 04:27:17.295 +0000"
+}

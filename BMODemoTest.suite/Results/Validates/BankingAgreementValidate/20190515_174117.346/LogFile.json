@@ -1,0 +1,59 @@
+{
+	"entries": [
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 17:41:17.349 +0530",
+				"message": "Running Validates/BankingAgreementValidate.script",
+				"identifier": "START",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "on_validates_bankingagreementvalidate",
+				"timestamp": "2019-05-15 17:41:17.360 +0530",
+				"message": "IMAGEUPDATE = Off",
+				"scriptName": "Validates/BankingAgreementValidate.script",
+				"handlerLine": 1,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_validates_bankingagreementvalidate",
+				"timestamp": "2019-05-15 17:41:20.988 +0530",
+				"message": "The image (CaseSensitive:\"No\", Contrast:\"Off\", DPI:\"72\", EnableAggressiveTextExtraction:\"No\", EnhanceLocalContrast:\"No\", IgnoreNewLines:\"No\", IgnoreSpaces:\"No\", Language:\"English\", text:\"Banking Agreements\", TextPlatform:\"Generic OCR\", TextStyleName:\"Default\", ValidCharacters:\"\", ValidPattern:\"\", ValidWords:\"\") was found on the screen 2 times",
+				"scriptName": "Validates/BankingAgreementValidate.script",
+				"handlerLine": 2,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_validates_bankingagreementvalidate",
+				"timestamp": "2019-05-15 17:41:20.991 +0530",
+				"scriptName": "Validates/BankingAgreementValidate.script",
+				"message": "found at (626, 314)",
+				"image": "(TEXT:\"Banking Agreements\")",
+				"handlerLine": 2,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validates_bankingagreementvalidate",
+				"timestamp": "2019-05-15 17:41:20.997 +0530",
+				"message": "Page validated",
+				"scriptName": "Validates/BankingAgreementValidate.script",
+				"handlerLine": 3,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 17:41:21.004 +0530",
+				"message": "(Duration:\"3.647\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-05-15 17:41:17 +0530\", Successes:\"1\", TestCase:\"Validates/BankingAgreementValidate.script\", Warnings:\"1\")",
+				"identifier": "EndTestCase",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 17:41:21.156 +0530",
+				"message": "Execution Time 0:00:04 Validates/BankingAgreementValidate.script",
+				"identifier": "SUCCESS",
+				"handlerLine": 1
+			}
+	],
+	"createdTimestamp": "2019-05-15 12:11:17.354 +0000"
+}

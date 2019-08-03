@@ -1,0 +1,49 @@
+{
+	"entries": [
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 11:26:49.575 +0530",
+				"message": "Running Validates/BankingAgreementValidate.script",
+				"identifier": "START",
+				"handlerLine": 1
+			},
+		{
+				"message": "OCR Text read in search rect: r\\nBank Fees | Chequing and Savin X | -fr*\\n£\\tO\\tBank of Montreal [CA] | https://www.bmo.com/main/personal/bank-accounts/edb-fees-agreements\\nPersonal\\nWealth Business Commercial Capital Markets\\nEN v\\n☆ ® O\\nLogin\\n\\nBMO\\n©\\nBank of Montreal\\nBank\\nAccounts\\nCredit\\nCards\\nMortgages\\nLoans &\\nLines of\\nCredit\\nInvestments\\nFinancial\\nPlanning\\nTravel\\nServices\\nWays to Bank\\nAbout BMO\\n< Back\\nBanking Agreements and\\nFees\\nDownload the Agreements, Bank Plans and Fees for Everyday Banking (467 KB - PDF) brochure, which contains all of the relevant banking agreements that apply to Personal\\nAccounts at BMO Bank of Montreal.\\nAccounts and Plans No Longer Offered\\nInformation on these accounts and services is for existing account holders only. Please visit your nearest BMO Bank of Montreal branch to see how our\\ncurrent suite of products may provide a better solution to your banking needs.\\nDownload detailed information concerning Accounts and Plans (68 KB - PDF) and the BMO Bank Unlimited Plan Offer that are no longer offered.\\n\\n£ El\\n\\nc\\n- I\"' 13 <>\\n11:27 AM\\n15-May-19",
+				"identifier": "LogWarning",
+				"timestamp": "2019-05-15 11:27:51.636 +0530"
+			},
+		{
+				"handlerName": "on_validates_bankingagreementvalidate",
+				"timestamp": "2019-05-15 11:28:11.688 +0530",
+				"scriptName": "Validates/BankingAgreementValidate.script",
+				"message": "Unable to Find Image (TEXT:\"Banking Fees\")",
+				"image": "(TEXT:\"Banking Fees\")",
+				"handlerLine": 1,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validates_bankingagreementvalidate",
+				"timestamp": "2019-05-15 11:28:11.696 +0530",
+				"message": "Page not validated",
+				"scriptName": "Validates/BankingAgreementValidate.script",
+				"handlerLine": 5,
+				"identifier": "LogError"
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 11:28:11.706 +0530",
+				"message": "(Duration:\"82.115\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2019-05-15 11:26:49 +0530\", Successes:\"0\", TestCase:\"Validates/BankingAgreementValidate.script\", Warnings:\"1\")",
+				"identifier": "EndTestCase",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 11:28:12.033 +0530",
+				"message": "Script Error Number of Errors logged: 1 -- Execution Time 0:01:22 Validates/BankingAgreementValidate.script",
+				"image": "Screen_Error.png",
+				"handlerLine": 1,
+				"identifier": "FAILURE"
+			}
+	],
+	"createdTimestamp": "2019-05-15 05:56:49.585 +0000"
+}

@@ -1,0 +1,22 @@
+﻿2019-04-09 15:24:22.359 +0530	START		Running Master.script
+2019-04-09 15:24:22.469 +0530	connect		AjitSystem:(null)	1	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-04-09 15:24:22.479 +0530	show		Remote	2	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-04-09 15:24:22.509 +0530	typetext		[windowsKey]r	3	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-04-09 15:24:23.364 +0530	typetext		Chrome[return]	4	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-04-09 15:24:26.064 +0530	typetext		https://www.bmo.com/main/personal[return]	6	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-04-09 15:24:26.794 +0530	typetext		[windowsKey][upArrow]	7	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-04-09 15:24:27.584 +0530	waitfor	BMOLogo	found at (158, 164)	9	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-04-09 15:24:31.134 +0530	click	Loans	at (776, 163)	1	on_landingpage_loans	LandingPage/Loans.script
+2019-04-09 15:24:32.588 +0530	set		SEARCHRECTANGLE = (LoanCal_TL,LoanCalc_BR)	2	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-04-09 15:24:33.738 +0530	click	(TEXT:"Loan Calculators")	at (842, 395)	3	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-04-09 15:24:33.738 +0530	set		SEARCHRECTANGLE = ()	4	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-04-09 15:24:56.291 +0530	waitfor	ChromeRefresh	found at (82, 53)	6	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-04-09 15:24:56.681 +0530	imagefound	Amortization	found at (35, 226)	2	on_validates_loancalcvalidate	Validates/LoanCalcValidate.script
+2019-04-09 15:24:56.681 +0530	LogSuccess		we found the image	3	on_validates_loancalcvalidate	Validates/LoanCalcValidate.script
+2019-04-09 15:24:56.967 +0530	waitfor	closeButtonLoanPage	found at (561, 95)	10	on_validates_loancalcvalidate	Validates/LoanCalcValidate.script
+2019-04-09 15:24:57.337 +0530	click	closeButtonLoanPage	at (561, 95)	11	on_validates_loancalcvalidate	Validates/LoanCalcValidate.script
+2019-04-09 15:24:59.477 +0530	click	BankAccounts	at (499, 165)	1	on_landingpage_bankaccounts	LandingPage/BankAccounts.script
+2019-04-09 15:25:02.818 +0530	set		SEARCHRECTANGLE = (BankAcounts_TL,BankingAcounts_BR)	1	on_bankaccounts_bankingagreements	BankAccounts/BankingAgreements.script
+2019-04-09 15:25:27.944 +0530	Exception	BankingAgreements	No Image Found On Screen: "BankingAgreements"	2	on_bankaccounts_bankingagreements	BankAccounts/BankingAgreements.script
+2019-04-09 15:25:28.254 +0530	EndTestCase		(Duration:"65.895", Errors:"1", Exceptions:"1", StartTime:"2019-04-09 15:24:22 +0530", Successes:"1", TestCase:"Master.script", Warnings:"0")
+2019-04-09 15:25:28.344 +0530	ABORTED		Execution Time 0:01:06 Master.script

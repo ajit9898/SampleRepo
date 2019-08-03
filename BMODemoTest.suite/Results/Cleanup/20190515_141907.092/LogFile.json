@@ -1,0 +1,34 @@
+{
+	"entries": [
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 14:19:07.092 +0530",
+				"message": "Running Cleanup.script",
+				"identifier": "START",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "on_cleanup",
+				"timestamp": "2019-05-15 14:19:07.132 +0530",
+				"message": "[windowsAltKey][F4]",
+				"scriptName": "Cleanup.script",
+				"handlerLine": 1,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 14:19:07.132 +0530",
+				"message": "(Duration:\"0.03\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-05-15 14:19:07 +0530\", Successes:\"1\", TestCase:\"Cleanup.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 14:19:07.538 +0530",
+				"message": "Execution Time 0:00:00 Cleanup.script",
+				"identifier": "SUCCESS",
+				"handlerLine": 1
+			}
+	],
+	"createdTimestamp": "2019-05-15 08:49:07.102 +0000"
+}

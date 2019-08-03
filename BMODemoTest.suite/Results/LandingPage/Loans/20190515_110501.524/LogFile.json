@@ -1,0 +1,35 @@
+{
+	"entries": [
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 11:05:01.527 +0530",
+				"message": "Running LandingPage/Loans.script",
+				"identifier": "START",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "on_landingpage_loans",
+				"timestamp": "2019-05-15 11:05:02.817 +0530",
+				"scriptName": "LandingPage/Loans.script",
+				"message": "at (770, 154)",
+				"image": "Loans",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 11:05:02.819 +0530",
+				"message": "(Duration:\"1.287\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-05-15 11:05:01 +0530\", Successes:\"1\", TestCase:\"LandingPage/Loans.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 11:05:03.009 +0530",
+				"message": "Execution Time 0:00:01 LandingPage/Loans.script",
+				"identifier": "SUCCESS",
+				"handlerLine": 1
+			}
+	],
+	"createdTimestamp": "2019-05-15 05:35:01.529 +0000"
+}

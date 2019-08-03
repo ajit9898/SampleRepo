@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Validates/CreatingPlanValidate">
+ <run>
+  <RunDate>2019-04-09 17:26:36.538 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>9.299000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190409_172636.538/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-14 17:02:50.547 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>18.431000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190514_170250.547/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-15 14:19:56.776 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>8.990000</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190515_141956.776/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-30 14:56:55.772 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>9.575000</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190530_145655.772/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

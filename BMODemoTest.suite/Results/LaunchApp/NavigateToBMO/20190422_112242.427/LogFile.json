@@ -1,0 +1,26 @@
+{
+	"entries": [
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-04-22 11:22:42.437 +0530",
+				"message": "Running LaunchApp/NavigateToBMO.script",
+				"identifier": "START",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-04-22 11:22:43.552 +0530",
+				"message": "(Duration:\"1.09\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2019-04-22 11:22:42 +0530\", Successes:\"0\", TestCase:\"LaunchApp/NavigateToBMO.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-04-22 11:22:44.039 +0530",
+				"message": "Connection Failed Unable to connect to Server:192.168.1.58 on port:5900\\nUnable to Contact Server: 192.168.1.58:5900 (10061:Connection refused)\\n -- Execution Time 0:00:01 LaunchApp/NavigateToBMO.script",
+				"identifier": "FAILURE",
+				"handlerLine": 1
+			}
+	],
+	"createdTimestamp": "2019-04-22 05:52:42.447 +0000"
+}

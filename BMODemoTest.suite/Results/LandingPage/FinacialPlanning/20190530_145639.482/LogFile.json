@@ -1,0 +1,75 @@
+{
+	"entries": [
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-30 14:56:39.487 +0530",
+				"message": "Running LandingPage/FinacialPlanning.script",
+				"identifier": "START",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "on_landingpage_finacialplanning",
+				"timestamp": "2019-05-30 14:56:39.546 +0530",
+				"message": "IMAGEUPDATE = Off",
+				"scriptName": "LandingPage/FinacialPlanning.script",
+				"handlerLine": 1,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_landingpage_finacialplanning",
+				"timestamp": "2019-05-30 14:56:40.464 +0530",
+				"message": "The image FinancialPlanning was found on the screen 10 times",
+				"scriptName": "LandingPage/FinacialPlanning.script",
+				"handlerLine": 2,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_landingpage_finacialplanning",
+				"timestamp": "2019-05-30 14:56:41.088 +0530",
+				"scriptName": "LandingPage/FinacialPlanning.script",
+				"image": "Screen_Trace_0003.png",
+				"handlerLine": 2,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_landingpage_finacialplanning",
+				"timestamp": "2019-05-30 14:56:41.091 +0530",
+				"scriptName": "LandingPage/FinacialPlanning.script",
+				"message": "found at (958, 172)",
+				"image": "FinancialPlanning",
+				"handlerLine": 2,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_landingpage_finacialplanning",
+				"timestamp": "2019-05-30 14:56:41.745 +0530",
+				"scriptName": "LandingPage/FinacialPlanning.script",
+				"image": "Screen_Trace_0004.png",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_landingpage_finacialplanning",
+				"timestamp": "2019-05-30 14:56:41.827 +0530",
+				"message": "at (958, 172)",
+				"scriptName": "LandingPage/FinacialPlanning.script",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-30 14:56:41.839 +0530",
+				"message": "(Duration:\"2.342\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-05-30 14:56:39 +0530\", Successes:\"1\", TestCase:\"LandingPage/FinacialPlanning.script\", Warnings:\"1\")",
+				"identifier": "EndTestCase",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-30 14:56:42.048 +0530",
+				"message": "Execution Time 0:00:02 LandingPage/FinacialPlanning.script",
+				"identifier": "SUCCESS",
+				"handlerLine": 1
+			}
+	],
+	"createdTimestamp": "2019-05-30 09:26:39.494 +0000"
+}

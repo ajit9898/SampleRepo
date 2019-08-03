@@ -1,0 +1,5 @@
+﻿2019-05-30 14:54:12.751 +0530	START		Running LandingPage/Loans.script	1	execute string	(null)
+2019-05-30 14:54:30.438 +0530	imagefound	(TEXT:"Loans")	found at (766, 153)	1	on_landingpage_loans	LandingPage/Loans.script
+2019-05-30 14:54:30.526 +0530	click		at (766, 153)	2	on_landingpage_loans	LandingPage/Loans.script
+2019-05-30 14:54:30.530 +0530	EndTestCase		(Duration:"17.775", Errors:"0", Exceptions:"0", StartTime:"2019-05-30 14:54:12 +0530", Successes:"1", TestCase:"LandingPage/Loans.script", Warnings:"0")	1	execute string	(null)
+2019-05-30 14:54:30.782 +0530	SUCCESS		Execution Time 0:00:18 LandingPage/Loans.script	1	execute string	(null)

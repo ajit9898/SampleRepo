@@ -1,0 +1,5 @@
+﻿2019-05-15 17:41:08.914 +0530	START		Running BankAccounts/BankingAgreements.script	1	execute string	(null)
+2019-05-15 17:41:09.997 +0530	click	FeaturesToBAg	at (868, 390)	3	on_bankaccounts_bankingagreements	BankAccounts/BankingAgreements.script
+2019-05-15 17:41:14.822 +0530	waitfor	ChromeRefresh.png	found at (82, 53)	8	on_bankaccounts_bankingagreements	BankAccounts/BankingAgreements.script
+2019-05-15 17:41:14.827 +0530	EndTestCase		(Duration:"5.906", Errors:"0", Exceptions:"0", StartTime:"2019-05-15 17:41:08 +0530", Successes:"1", TestCase:"BankAccounts/BankingAgreements.script", Warnings:"0")	1	execute string	(null)
+2019-05-15 17:41:14.931 +0530	SUCCESS		Execution Time 0:00:06 BankAccounts/BankingAgreements.script	1	execute string	(null)

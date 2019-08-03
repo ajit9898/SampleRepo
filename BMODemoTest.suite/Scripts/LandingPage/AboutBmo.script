@@ -1,0 +1,7 @@
+﻿Set the ImageUpdate to off
+If ImageFound("AboutBMO") then
+	click FoundImageLocation()
+Else
+	Click text:"About"
+	
+End if

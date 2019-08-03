@@ -1,0 +1,8 @@
+﻿2019-05-30 14:56:55.776 +0530	START		Running Validates/CreatingPlanValidate.script	1	execute string	(null)
+2019-05-30 14:56:55.827 +0530	set		IMAGEUPDATE = Off	1	on_validates_creatingplanvalidate	Validates/CreatingPlanValidate.script
+2019-05-30 14:57:04.262 +0530	LogWarning		The image (CaseSensitive:"No", Contrast:"Off", DPI:"72", EnableAggressiveTextExtraction:"No", EnhanceLocalContrast:"No", IgnoreNewLines:"No", IgnoreSpaces:"No", Language:"English", text:"Creating Your Plan", TextPlatform:"Generic OCR", TextStyleName:"Default", ValidCharacters:"", ValidPattern:"", ValidWords:"") was found on the screen 2 times	2	on_validates_creatingplanvalidate	Validates/CreatingPlanValidate.script
+2019-05-30 14:57:05.329 +0530	imagefound	Screen_Trace_0006.png		2	on_validates_creatingplanvalidate	Validates/CreatingPlanValidate.script
+2019-05-30 14:57:05.333 +0530	imagefound	(TEXT:"Creating Your Plan")	found at (92, 17)	2	on_validates_creatingplanvalidate	Validates/CreatingPlanValidate.script
+2019-05-30 14:57:05.341 +0530	LogSuccess		Page validated	3	on_validates_creatingplanvalidate	Validates/CreatingPlanValidate.script
+2019-05-30 14:57:05.349 +0530	EndTestCase		(Duration:"9.565", Errors:"0", Exceptions:"0", StartTime:"2019-05-30 14:56:55 +0530", Successes:"1", TestCase:"Validates/CreatingPlanValidate.script", Warnings:"1")	1	execute string	(null)
+2019-05-30 14:57:05.553 +0530	SUCCESS		Execution Time 0:00:10 Validates/CreatingPlanValidate.script	1	execute string	(null)

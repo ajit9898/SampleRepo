@@ -1,0 +1,5 @@
+﻿2019-05-15 11:20:38.597 +0530	START		Running Validates/annualReportValidate.script	1	execute string	(null)
+2019-05-15 11:20:40.152 +0530	imagefound	Download	found at (674, 494)	1	on_validates_annualreportvalidate	Validates/annualReportValidate.script
+2019-05-15 11:20:40.157 +0530	LogSuccess		Page validated	2	on_validates_annualreportvalidate	Validates/annualReportValidate.script
+2019-05-15 11:20:40.165 +0530	EndTestCase		(Duration:"1.56", Errors:"0", Exceptions:"0", StartTime:"2019-05-15 11:20:38 +0530", Successes:"1", TestCase:"Validates/annualReportValidate.script", Warnings:"0")	1	execute string	(null)
+2019-05-15 11:20:40.287 +0530	SUCCESS		Execution Time 0:00:02 Validates/annualReportValidate.script	1	execute string	(null)

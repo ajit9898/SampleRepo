@@ -1,0 +1,4 @@
+﻿2019-04-24 12:24:59.162 +0530	START		Running LandingPage/WayToBank.script	1	execute string	(null)
+2019-04-24 12:24:59.866 +0530	click	WaystoBank	at (1137, 166)	1	on_landingpage_waytobank	LandingPage/WayToBank.script
+2019-04-24 12:24:59.872 +0530	EndTestCase		(Duration:"0.704", Errors:"0", Exceptions:"0", StartTime:"2019-04-24 12:24:59 +0530", Successes:"1", TestCase:"LandingPage/WayToBank.script", Warnings:"0")	1	execute string	(null)
+2019-04-24 12:25:00.113 +0530	SUCCESS		Execution Time 0:00:00 LandingPage/WayToBank.script	1	execute string	(null)

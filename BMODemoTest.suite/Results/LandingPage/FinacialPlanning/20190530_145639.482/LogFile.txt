@@ -1,0 +1,9 @@
+﻿2019-05-30 14:56:39.487 +0530	START		Running LandingPage/FinacialPlanning.script	1	execute string	(null)
+2019-05-30 14:56:39.546 +0530	set		IMAGEUPDATE = Off	1	on_landingpage_finacialplanning	LandingPage/FinacialPlanning.script
+2019-05-30 14:56:40.464 +0530	LogWarning		The image FinancialPlanning was found on the screen 10 times	2	on_landingpage_finacialplanning	LandingPage/FinacialPlanning.script
+2019-05-30 14:56:41.088 +0530	imagefound	Screen_Trace_0003.png		2	on_landingpage_finacialplanning	LandingPage/FinacialPlanning.script
+2019-05-30 14:56:41.091 +0530	imagefound	FinancialPlanning	found at (958, 172)	2	on_landingpage_finacialplanning	LandingPage/FinacialPlanning.script
+2019-05-30 14:56:41.745 +0530	click	Screen_Trace_0004.png		3	on_landingpage_finacialplanning	LandingPage/FinacialPlanning.script
+2019-05-30 14:56:41.827 +0530	click		at (958, 172)	3	on_landingpage_finacialplanning	LandingPage/FinacialPlanning.script
+2019-05-30 14:56:41.839 +0530	EndTestCase		(Duration:"2.342", Errors:"0", Exceptions:"0", StartTime:"2019-05-30 14:56:39 +0530", Successes:"1", TestCase:"LandingPage/FinacialPlanning.script", Warnings:"1")	1	execute string	(null)
+2019-05-30 14:56:42.048 +0530	SUCCESS		Execution Time 0:00:02 LandingPage/FinacialPlanning.script	1	execute string	(null)

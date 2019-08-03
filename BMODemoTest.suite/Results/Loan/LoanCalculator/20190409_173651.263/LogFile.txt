@@ -1,0 +1,7 @@
+﻿2019-04-09 17:36:51.343 +0530	START		Running Loan/LoanCalculator.script	1	execute string	(null)
+2019-04-09 17:36:53.427 +0530	set		SEARCHRECTANGLE = (LoanCal_TL,LoanCalc_BR)	2	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-04-09 17:36:54.522 +0530	click	(TEXT:"Loan Calculators")	at (842, 395)	3	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-04-09 17:36:54.522 +0530	set		SEARCHRECTANGLE = ()	4	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-04-09 17:37:17.856 +0530	waitfor	ChromeRefresh	found at (82, 53)	6	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-04-09 17:37:17.856 +0530	EndTestCase		(Duration:"26.513", Errors:"0", Exceptions:"0", StartTime:"2019-04-09 17:36:51 +0530", Successes:"1", TestCase:"Loan/LoanCalculator.script", Warnings:"0")	1	execute string	(null)
+2019-04-09 17:37:18.056 +0530	SUCCESS		Execution Time 0:00:26 Loan/LoanCalculator.script	1	execute string	(null)

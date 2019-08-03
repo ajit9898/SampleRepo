@@ -1,0 +1,5 @@
+﻿2019-05-15 17:39:10.155 +0530	START		Running FinancialPlanning/GettingMarried.script	1	execute string	(null)
+2019-05-15 17:39:15.197 +0530	click	(TEXT:"Getting Married")	at (373, 370)	2	on_financialplanning_gettingmarried	FinancialPlanning/GettingMarried.script
+2019-05-15 17:39:30.714 +0530	waitfor	ChromeRefresh.png	found at (82, 53)	5	on_financialplanning_gettingmarried	FinancialPlanning/GettingMarried.script
+2019-05-15 17:39:30.718 +0530	EndTestCase		(Duration:"20.558", Errors:"0", Exceptions:"0", StartTime:"2019-05-15 17:39:10 +0530", Successes:"1", TestCase:"FinancialPlanning/GettingMarried.script", Warnings:"0")	1	execute string	(null)
+2019-05-15 17:39:30.828 +0530	SUCCESS		Execution Time 0:00:20 FinancialPlanning/GettingMarried.script	1	execute string	(null)

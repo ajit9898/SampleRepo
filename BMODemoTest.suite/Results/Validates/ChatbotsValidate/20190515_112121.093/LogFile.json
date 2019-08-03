@@ -1,0 +1,43 @@
+{
+	"entries": [
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 11:21:21.103 +0530",
+				"message": "Running Validates/ChatbotsValidate.script",
+				"identifier": "START",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "on_validates_chatbotsvalidate",
+				"timestamp": "2019-05-15 11:21:22.325 +0530",
+				"scriptName": "Validates/ChatbotsValidate.script",
+				"message": "found at (820, 230)",
+				"image": "Chatbotsicon",
+				"handlerLine": 1,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validates_chatbotsvalidate",
+				"timestamp": "2019-05-15 11:21:22.328 +0530",
+				"message": "page validated",
+				"scriptName": "Validates/ChatbotsValidate.script",
+				"handlerLine": 2,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 11:21:22.333 +0530",
+				"message": "(Duration:\"1.22\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-05-15 11:21:21 +0530\", Successes:\"1\", TestCase:\"Validates/ChatbotsValidate.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 11:21:22.500 +0530",
+				"message": "Execution Time 0:00:01 Validates/ChatbotsValidate.script",
+				"identifier": "SUCCESS",
+				"handlerLine": 1
+			}
+	],
+	"createdTimestamp": "2019-05-15 05:51:21.113 +0000"
+}

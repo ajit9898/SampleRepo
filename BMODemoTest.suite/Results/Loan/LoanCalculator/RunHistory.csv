@@ -1,0 +1,9 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2019-04-09 17:36:51.263 +0530,"Success",0:00:26,0,0,0,"20190409_173651.263/LogFile.txt","","",1
+2019-05-15 11:00:04.995 +0530,"Failure",0:01:17,1,1,1,"20190515_110004.995/LogFile.txt","","Image Not Found -- click Error - No Text Found On Screen: ""(TEXT:""Loans Calculators"")""",0
+2019-05-15 11:05:05.389 +0530,"Aborted",0:00:28,1,0,0,"20190515_110505.389/LogFile.txt","","",0
+2019-05-15 14:20:47.656 +0530,"Failure",0:00:23,1,1,1,"20190515_142047.656/LogFile.txt","","Image Not Found -- click Error - No Text Found On Screen: ""(TEXT:""Loans Calculators"")""  Restricted Search Rectangle ((402,457),(536,489))\n",0
+2019-05-15 14:31:53.350 +0530,"Success",0:00:22,0,0,0,"20190515_143153.350/LogFile.txt","","",1
+2019-05-15 17:23:42.739 +0530,"Success",0:02:09,0,0,0,"20190515_172342.739/LogFile.txt","","",1
+2019-05-15 17:26:36.058 +0530,"Success",0:02:05,0,0,0,"20190515_172636.058/LogFile.txt","","",1
+2019-05-30 14:54:32.269 +0530,"Success",0:00:08,0,0,0,"20190530_145432.269/LogFile.txt","","",1

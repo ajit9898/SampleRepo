@@ -1,0 +1,30 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2019-04-09 15:09:03.069 +0530,"Failure",0:01:15,1,0,1,"20190409_150903.069/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""BankAccounts""",1
+2019-04-09 15:12:51.929 +0530,"Failure",0:01:22,1,0,1,"20190409_151251.929/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""closeLoanPage"" within 20.00 seconds",1
+2019-04-09 15:19:12.888 +0530,"Aborted",0:00:04,1,0,0,"20190409_151912.888/LogFile.txt","","",0
+2019-04-09 15:20:54.933 +0530,"Failure",0:00:44,1,0,1,"20190409_152054.933/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: Banking Agreements",1
+2019-04-09 15:24:22.349 +0530,"Aborted",0:01:05,1,0,1,"20190409_152422.349/LogFile.txt","","",1
+2019-04-09 15:28:35.710 +0530,"Aborted",0:01:09,1,0,1,"20190409_152835.710/LogFile.txt","","",1
+2019-04-09 15:32:35.121 +0530,"Aborted",0:01:00,1,0,0,"20190409_153235.121/LogFile.txt","","",1
+2019-04-09 15:36:07.749 +0530,"Failure",0:01:12,1,0,0,"20190409_153607.749/LogFile.txt","","Image Not Found -- set Error - Unable To Find Image: BankingAgreements_TL",1
+2019-04-09 15:40:58.716 +0530,"Aborted",0:01:20,1,0,0,"20190409_154058.716/LogFile.txt","","",1
+2019-04-09 15:44:05.660 +0530,"Aborted",0:00:59,1,0,1,"20190409_154405.660/LogFile.txt","","",1
+2019-04-09 15:49:13.704 +0530,"Failure",0:01:31,1,0,0,"20190409_154913.704/LogFile.txt","","Image Not Found -- set Error - Unable To Find Image: BankAcounts_TL",2
+2019-04-09 15:52:28.923 +0530,"Aborted",0:01:22,1,0,0,"20190409_155228.923/LogFile.txt","","",2
+2019-04-09 15:56:24.802 +0530,"Failure",0:01:08,1,0,1,"20190409_155624.802/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: Banking Services",2
+2019-04-09 16:04:34.317 +0530,"Failure",0:01:11,1,0,1,"20190409_160434.317/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: Banking Services",2
+2019-04-09 16:11:45.915 +0530,"Aborted",0:02:12,1,1,0,"20190409_161145.915/LogFile.txt","","",3
+2019-04-09 16:26:30.880 +0530,"Failure",0:01:57,1,0,1,"20190409_162630.880/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: Getting Married",3
+2019-04-09 16:32:44.976 +0530,"Aborted",0:01:57,1,2,0,"20190409_163244.976/LogFile.txt","","",3
+2019-04-09 16:36:26.949 +0530,"Failure",0:02:02,1,2,1,"20190409_163626.949/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: Creating your Plan",4
+2019-04-09 16:39:17.191 +0530,"Failure",0:02:26,1,2,0,"20190409_163917.191/LogFile.txt","","Error Running Script Command -- set Error - Invalid Rectangle: (GetStarted_TL,FindyourBMOExperts_BR,(Image:""Chatbotsicon"", WaitFor:""241""))",5
+2019-04-09 16:42:42.114 +0530,"Aborted",0:03:05,1,4,0,"20190409_164242.114/LogFile.txt","","",6
+2019-04-09 16:50:08.977 +0530,"Aborted",0:03:36,1,0,0,"20190409_165008.977/LogFile.txt","","",7
+2019-04-09 16:55:44.441 +0530,"Failure",0:03:17,1,0,1,"20190409_165544.441/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""BrowserBack""",7
+2019-04-24 11:59:53.770 +0530,"Aborted",0:00:27,1,0,1,"20190424_115953.770/LogFile.txt","","",0
+2019-04-24 12:00:42.584 +0530,"Aborted",0:03:07,1,1,1,"20190424_120042.584/LogFile.txt","","",4
+2019-05-14 17:46:45.567 +0530,"Aborted",0:00:28,1,0,0,"20190514_174645.567/LogFile.txt","","",0
+2019-05-14 17:47:32.938 +0530,"Aborted",0:00:34,1,0,0,"20190514_174732.938/LogFile.txt","","",0
+2019-05-14 17:48:53.578 +0530,"Failure",0:00:53,1,0,0,"20190514_174853.578/LogFile.txt","","Image Not Found -- set Error - Unable To Find Image: LoanCal_TL",0
+2019-05-15 09:57:17.262 +0530,"Failure",0:02:07,1,0,0,"20190515_095717.262/LogFile.txt","","Image Not Found -- set Error - Unable To Find Image: LoanCal_TL",0
+2019-05-15 10:03:54.039 +0530,"Failure",0:01:20,1,1,1,"20190515_100354.039/LogFile.txt","","Image Not Found -- click Error - No Text Found On Screen: ""(TEXT:""Loans Calculators"")""",0

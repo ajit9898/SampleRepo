@@ -1,0 +1,11 @@
+﻿set the ImageUpdate to off
+
+If ImageFound(text:"Our Chatbots") then
+	click FoundImageLocation()
+Else
+	Set the SearchRectangle to ("GetStarted_TL", "FindyourBMOExperts_BR")
+	Click text:"Our Chatbots"
+	set the searchrectangle to ()
+	Wait 2
+	WaitFor 45, "ChromeRefresh"
+End if

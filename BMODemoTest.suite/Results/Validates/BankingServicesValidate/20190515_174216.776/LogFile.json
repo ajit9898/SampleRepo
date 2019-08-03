@@ -1,0 +1,59 @@
+{
+	"entries": [
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 17:42:16.799 +0530",
+				"message": "Running Validates/BankingServicesValidate.script",
+				"identifier": "START",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "on_validates_bankingservicesvalidate",
+				"timestamp": "2019-05-15 17:42:16.807 +0530",
+				"message": "IMAGEUPDATE = Off",
+				"scriptName": "Validates/BankingServicesValidate.script",
+				"handlerLine": 1,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_validates_bankingservicesvalidate",
+				"timestamp": "2019-05-15 17:42:22.113 +0530",
+				"message": "The image (CaseSensitive:\"No\", Contrast:\"Off\", DPI:\"72\", EnableAggressiveTextExtraction:\"No\", EnhanceLocalContrast:\"No\", IgnoreNewLines:\"No\", IgnoreSpaces:\"No\", Language:\"English\", text:\"Banking Services\", TextPlatform:\"Generic OCR\", TextStyleName:\"Default\", ValidCharacters:\"\", ValidPattern:\"\", ValidWords:\"\") was found on the screen 2 times",
+				"scriptName": "Validates/BankingServicesValidate.script",
+				"handlerLine": 2,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_validates_bankingservicesvalidate",
+				"timestamp": "2019-05-15 17:42:22.117 +0530",
+				"scriptName": "Validates/BankingServicesValidate.script",
+				"message": "found at (87, 17)",
+				"image": "(TEXT:\"Banking Services\")",
+				"handlerLine": 2,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validates_bankingservicesvalidate",
+				"timestamp": "2019-05-15 17:42:22.124 +0530",
+				"message": "Page validated",
+				"scriptName": "Validates/BankingServicesValidate.script",
+				"handlerLine": 3,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 17:42:22.130 +0530",
+				"message": "(Duration:\"5.324\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-05-15 17:42:16 +0530\", Successes:\"1\", TestCase:\"Validates/BankingServicesValidate.script\", Warnings:\"1\")",
+				"identifier": "EndTestCase",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 17:42:22.276 +0530",
+				"message": "Execution Time 0:00:06 Validates/BankingServicesValidate.script",
+				"identifier": "SUCCESS",
+				"handlerLine": 1
+			}
+	],
+	"createdTimestamp": "2019-05-15 12:12:16.803 +0000"
+}

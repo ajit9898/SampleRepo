@@ -1,0 +1,7 @@
+﻿2019-04-09 17:37:57.468 +0530	START		Running AboutBmo/whyBMO.script	1	execute string	(null)
+2019-04-09 17:37:59.930 +0530	set		SEARCHRECTANGLE = (CorporateInformation_TL,HowWeHire_BR)	1	on_aboutbmo_whybmo	AboutBmo/whyBMO.script
+2019-04-09 17:38:01.314 +0530	click	(TEXT:"Why BMO")	at (732, 322)	2	on_aboutbmo_whybmo	AboutBmo/whyBMO.script
+2019-04-09 17:38:01.314 +0530	set		SEARCHRECTANGLE = ()	3	on_aboutbmo_whybmo	AboutBmo/whyBMO.script
+2019-04-09 17:38:18.371 +0530	waitfor	ChromeRefresh	found at (82, 53)	5	on_aboutbmo_whybmo	AboutBmo/whyBMO.script
+2019-04-09 17:38:18.381 +0530	EndTestCase		(Duration:"20.903", Errors:"0", Exceptions:"0", StartTime:"2019-04-09 17:37:57 +0530", Successes:"1", TestCase:"AboutBmo/whyBMO.script", Warnings:"0")	1	execute string	(null)
+2019-04-09 17:38:18.531 +0530	SUCCESS		Execution Time 0:00:21 AboutBmo/whyBMO.script	1	execute string	(null)

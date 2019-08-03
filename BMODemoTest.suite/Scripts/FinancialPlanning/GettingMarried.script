@@ -1,0 +1,5 @@
+﻿//Set the SearchRectangle to ("PlanningtoRetire_TL","EducationSavings_BR")
+Click text:"Getting Married"
+//set the searchrectangle to empty
+Wait 2
+WaitFor 30, "ChromeRefresh.png"

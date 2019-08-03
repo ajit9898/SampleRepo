@@ -1,0 +1,7 @@
+﻿Set the imageupdate to off
+If ImageFound("BankAccounts") then
+	click FoundImageLocation()
+Else
+	Click text:"Accounts"
+	
+End if

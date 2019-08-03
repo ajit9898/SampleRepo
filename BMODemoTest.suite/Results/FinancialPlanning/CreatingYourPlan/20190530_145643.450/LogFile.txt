@@ -1,0 +1,9 @@
+﻿2019-05-30 14:56:43.457 +0530	START		Running FinancialPlanning/CreatingYourPlan.script	1	execute string	(null)
+2019-05-30 14:56:45.529 +0530	LogWarning		The image PlanningtoRetire_TL was found on the screen 5 times	1	on_financialplanning_creatingyourplan	FinancialPlanning/CreatingYourPlan.script
+2019-05-30 14:56:46.019 +0530	set		SEARCHRECTANGLE = (PlanningtoRetire_TL,EducationSavings_BR)	1	on_financialplanning_creatingyourplan	FinancialPlanning/CreatingYourPlan.script
+2019-05-30 14:56:49.021 +0530	click	Screen_Trace_0005.png		2	on_financialplanning_creatingyourplan	FinancialPlanning/CreatingYourPlan.script
+2019-05-30 14:56:49.101 +0530	click	(TEXT:"Creating your Plan")	at (611, 340)	2	on_financialplanning_creatingyourplan	FinancialPlanning/CreatingYourPlan.script
+2019-05-30 14:56:49.117 +0530	set		SEARCHRECTANGLE = 	3	on_financialplanning_creatingyourplan	FinancialPlanning/CreatingYourPlan.script
+2019-05-30 14:56:53.745 +0530	waitfor	ChromeRefresh.png	found at (82, 53)	5	on_financialplanning_creatingyourplan	FinancialPlanning/CreatingYourPlan.script
+2019-05-30 14:56:53.751 +0530	EndTestCase		(Duration:"10.287", Errors:"0", Exceptions:"0", StartTime:"2019-05-30 14:56:43 +0530", Successes:"1", TestCase:"FinancialPlanning/CreatingYourPlan.script", Warnings:"1")	1	execute string	(null)
+2019-05-30 14:56:53.926 +0530	SUCCESS		Execution Time 0:00:10 FinancialPlanning/CreatingYourPlan.script	1	execute string	(null)

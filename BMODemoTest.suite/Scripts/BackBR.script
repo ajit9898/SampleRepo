@@ -1,0 +1,2 @@
+﻿Click "BrowserBack"
+WaitFor 20, "ChromeRefresh"

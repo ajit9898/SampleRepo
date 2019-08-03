@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Cleanup_script" package="BMODemoTest.suite" timestamp="2019-05-30 14:54:45.586 +0530"
+ tests="1"  failures="0" errors="0" time="0.047000">
+  <properties>
+   <property name="RunDate" value="2019-05-30 14:54:45.586 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Cleanup.script" assertions="1" status="success"  time="0.037">
+  </testcase>
+ </testsuite>
+</testsuites>

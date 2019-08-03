@@ -1,0 +1,21 @@
+﻿Set the ImageUpdate to off
+If ImageFound("Interestrate_LoanCalcpage") then
+	LogSuccess "we found the image"
+Else If ImageFound("Amortization") then
+	LogSuccess "we found the image"
+Else If ImageFound("Loanamount_LoanCalcPage") then
+	LogSuccess "we found the image"
+
+	Else
+	LogError "we did not find any  image"
+	
+End if
+
+(*WaitFor 20, image:"closeButtonLoanPage"
+Click "closeButtonLoanPage"*)
+WaitFor 10, "ChromeRefresh"
+
+
+
+
+

@@ -1,0 +1,5 @@
+﻿2019-04-24 12:26:53.463 +0530	START		Running Validates/BankingServicesValidate.script	1	execute string	(null)
+2019-04-24 12:27:01.040 +0530	imagefound	(TEXT:"Banking Services")	found at (675, 491)	1	on_validates_bankingservicesvalidate	Validates/BankingServicesValidate.script
+2019-04-24 12:27:01.049 +0530	LogSuccess		Page validated	2	on_validates_bankingservicesvalidate	Validates/BankingServicesValidate.script
+2019-04-24 12:27:01.054 +0530	EndTestCase		(Duration:"7.586", Errors:"0", Exceptions:"0", StartTime:"2019-04-24 12:26:53 +0530", Successes:"1", TestCase:"Validates/BankingServicesValidate.script", Warnings:"0")	1	execute string	(null)
+2019-04-24 12:27:01.195 +0530	SUCCESS		Execution Time 0:00:08 Validates/BankingServicesValidate.script	1	execute string	(null)

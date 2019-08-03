@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="AboutBmo/whyBMO_script" package="BMODemoTest.suite" timestamp="2019-05-15 17:29:25.307 +0530"
+ tests="1"  failures="0" errors="0" time="18.128000">
+  <properties>
+   <property name="RunDate" value="2019-05-15 17:29:25.307 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="AboutBmo/whyBMO.script" assertions="1" status="success"  time="18.074">
+  </testcase>
+ </testsuite>
+</testsuites>

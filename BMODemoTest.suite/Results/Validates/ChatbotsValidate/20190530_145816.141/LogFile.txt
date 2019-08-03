@@ -1,0 +1,7 @@
+﻿2019-05-30 14:58:16.146 +0530	START		Running Validates/ChatbotsValidate.script	1	execute string	(null)
+2019-05-30 14:58:16.197 +0530	set		IMAGEUPDATE = Off	1	on_validates_chatbotsvalidate	Validates/ChatbotsValidate.script
+2019-05-30 14:58:18.916 +0530	imagefound	Screen_Trace_0007.png		2	on_validates_chatbotsvalidate	Validates/ChatbotsValidate.script
+2019-05-30 14:58:18.921 +0530	imagefound	Chatbotsicon	found at (820, 230)	2	on_validates_chatbotsvalidate	Validates/ChatbotsValidate.script
+2019-05-30 14:58:18.927 +0530	LogSuccess		page validated	3	on_validates_chatbotsvalidate	Validates/ChatbotsValidate.script
+2019-05-30 14:58:18.933 +0530	EndTestCase		(Duration:"2.781", Errors:"0", Exceptions:"0", StartTime:"2019-05-30 14:58:16 +0530", Successes:"1", TestCase:"Validates/ChatbotsValidate.script", Warnings:"0")	1	execute string	(null)
+2019-05-30 14:58:19.046 +0530	SUCCESS		Execution Time 0:00:02 Validates/ChatbotsValidate.script	1	execute string	(null)

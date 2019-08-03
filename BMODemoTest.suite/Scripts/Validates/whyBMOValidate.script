@@ -1,0 +1,8 @@
+﻿Set the ImageUpdate to off
+If ImageFound("WhyBMOIcon") then
+	LogSuccess "page validated"
+Else If ImageFound(text:"Investor Relations") then
+	LogSuccess "page validated"
+Else
+	LogError "page did not validated"
+End if

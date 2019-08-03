@@ -1,0 +1,9 @@
+﻿If ImageFound(text:"Loans") then
+	click FoundImageLocation()
+Else if ImageFound("LoansLinesofCredit")
+	click FoundImageLocation()
+Else
+	Log "Loans and Line of credit image not found"
+End if
+
+

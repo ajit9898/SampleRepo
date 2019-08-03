@@ -1,0 +1,8 @@
+﻿2019-05-30 14:58:05.812 +0530	START		Running WaysToBank/OurChartbots.script	1	execute string	(null)
+2019-05-30 14:58:05.882 +0530	set		IMAGEUPDATE = Off	1	on_waystobank_ourchartbots	WaysToBank/OurChartbots.script
+2019-05-30 14:58:12.798 +0530	imagefound	Screen_Trace_0005.png		3	on_waystobank_ourchartbots	WaysToBank/OurChartbots.script
+2019-05-30 14:58:12.801 +0530	imagefound	(TEXT:"Our Chatbots")	found at (916, 339)	3	on_waystobank_ourchartbots	WaysToBank/OurChartbots.script
+2019-05-30 14:58:14.443 +0530	click	Screen_Trace_0006.png		4	on_waystobank_ourchartbots	WaysToBank/OurChartbots.script
+2019-05-30 14:58:14.523 +0530	click		at (916, 339)	4	on_waystobank_ourchartbots	WaysToBank/OurChartbots.script
+2019-05-30 14:58:14.527 +0530	EndTestCase		(Duration:"8.708", Errors:"0", Exceptions:"0", StartTime:"2019-05-30 14:58:05 +0530", Successes:"1", TestCase:"WaysToBank/OurChartbots.script", Warnings:"0")	1	execute string	(null)
+2019-05-30 14:58:14.713 +0530	SUCCESS		Execution Time 0:00:09 WaysToBank/OurChartbots.script	1	execute string	(null)

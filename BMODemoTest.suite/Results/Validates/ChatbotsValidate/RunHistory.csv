@@ -1,0 +1,5 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2019-04-09 17:35:14.902 +0530,"Aborted",0:00:14,1,0,0,"20190409_173514.902/LogFile.txt","","",0
+2019-05-15 11:21:21.093 +0530,"Success",0:00:01,0,0,0,"20190515_112121.093/LogFile.txt","","",1
+2019-05-15 17:40:35.385 +0530,"Success",0:00:01,0,0,0,"20190515_174035.385/LogFile.txt","","",1
+2019-05-30 14:58:16.141 +0530,"Success",0:00:02,0,0,0,"20190530_145816.141/LogFile.txt","","",1

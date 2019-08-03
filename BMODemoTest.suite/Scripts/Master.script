@@ -1,0 +1,47 @@
+﻿//Loan
+Run "LaunchApp/NavigateToBMO"
+
+Run "LandingPage/Loans"
+Run "Loan/LoanCalculator"
+Run "Validates/LoanCalcValidate"
+
+//BankAccounts(Agreement, services)
+
+Run "LandingPage/BankAccounts"
+Run "BankAccounts/BankingAgreements"
+Run "Validates/BankingAgreementValidate"
+run "BackBR"
+Run "LandingPage/BankAccounts"
+
+Run "BankAccounts/BankingServices"
+Run "Validates/BankingServicesValidate"
+run "BackBR"
+
+//Finance planning(married,plan)
+
+Run "LandingPage/FinacialPlanning"
+
+Run "FinancialPlanning/GettingMarried"
+
+Run "Validates/GettingMarriedValidate"
+run "BackBR"
+Run "LandingPage/FinacialPlanning"
+Run "FinancialPlanning/CreatingYourPlan"
+Run "Validates/CreatingPlanValidate"
+run "BackBR"
+//waystoBank
+
+Run "LandingPage/WayToBank"
+Run "WaysToBank/OurChartbots"
+Run "Validates/ChatbotsValidate"
+run "BackBR"
+
+//AboutBMO
+
+Run "LandingPage/AboutBmo"
+Run "AboutBmo/whyBMO"
+Run "Validates/whyBMOValidate"
+run "BackBR"
+Run "LandingPage/AboutBmo"
+Run "AboutBmo/AnnualReport"
+Run "Validates/annualReportValidate"

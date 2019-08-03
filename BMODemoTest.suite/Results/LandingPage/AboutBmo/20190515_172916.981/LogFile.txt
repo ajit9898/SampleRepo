@@ -1,0 +1,6 @@
+﻿2019-05-15 17:29:16.981 +0530	START		Running LandingPage/AboutBmo.script	1	execute string	(null)
+2019-05-15 17:29:17.015 +0530	set		IMAGEUPDATE = Off	1	on_landingpage_aboutbmo	LandingPage/AboutBmo.script
+2019-05-15 17:29:17.618 +0530	imagefound	AboutBMO	found at (1237, 172)	2	on_landingpage_aboutbmo	LandingPage/AboutBmo.script
+2019-05-15 17:29:17.773 +0530	click		at (1237, 172)	3	on_landingpage_aboutbmo	LandingPage/AboutBmo.script
+2019-05-15 17:29:17.778 +0530	EndTestCase		(Duration:"0.782", Errors:"0", Exceptions:"0", StartTime:"2019-05-15 17:29:16 +0530", Successes:"1", TestCase:"LandingPage/AboutBmo.script", Warnings:"0")	1	execute string	(null)
+2019-05-15 17:29:18.039 +0530	SUCCESS		Execution Time 0:00:01 LandingPage/AboutBmo.script	1	execute string	(null)

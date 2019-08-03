@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="LaunchApp/NavigateToBMO_script" package="BMODemoTest.suite" timestamp="2019-04-24 12:24:29.201 +0530"
+ tests="1"  failures="0" errors="0" time="27.808000">
+  <properties>
+   <property name="RunDate" value="2019-04-24 12:24:29.201 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="LaunchApp/NavigateToBMO.script" assertions="1" status="error"  time="27.802">
+    <error type="Exception" message="Unable To Find Any Image On Screen &quot;BMOLogo&quot; within 10.00 seconds" />
+  </testcase>
+ </testsuite>
+</testsuites>

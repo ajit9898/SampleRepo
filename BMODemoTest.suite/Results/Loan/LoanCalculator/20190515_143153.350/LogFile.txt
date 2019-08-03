@@ -1,0 +1,9 @@
+﻿2019-05-15 14:31:53.354 +0530	START		Running Loan/LoanCalculator.script
+2019-05-15 14:32:03.689 +0530	imagefound	(TEXT:"Loans")	found at (767, 153)	1	on_landingpage_loans	LandingPage/Loans.script
+2019-05-15 14:32:03.779 +0530	click		at (767, 153)	2	on_landingpage_loans	LandingPage/Loans.script
+2019-05-15 14:32:05.804 +0530	set		SEARCHRECTANGLE = (LoanCal_TL,LoanCalc_BR/LoanCalc_BR)	4	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-05-15 14:32:06.046 +0530	click	(TEXT:"Loans Calculator")	at (466, 475)	5	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-05-15 14:32:06.049 +0530	set		SEARCHRECTANGLE = ()	6	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-05-15 14:32:15.227 +0530	waitfor	ChromeRefresh	found at (82, 53)	8	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-05-15 14:32:15.412 +0530	EndTestCase		(Duration:"22.054", Errors:"0", Exceptions:"0", StartTime:"2019-05-15 14:31:53 +0530", Successes:"1", TestCase:"Loan/LoanCalculator.script", Warnings:"0")
+2019-05-15 14:32:15.517 +0530	SUCCESS		Execution Time 0:00:22 Loan/LoanCalculator.script

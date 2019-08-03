@@ -1,0 +1,13 @@
+﻿Set the ImageUpdate to off
+If ImageFound(text:"Banking Agreements") then
+	LogSuccess "Page validated"
+else If ImageFound(text:"Fees") then
+	LogSuccess "Page validated"
+	
+Else
+	LogError "Page not validated"
+	
+End if
+
+
+

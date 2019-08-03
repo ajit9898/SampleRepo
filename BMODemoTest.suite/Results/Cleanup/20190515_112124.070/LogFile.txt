@@ -1,0 +1,4 @@
+﻿2019-05-15 11:21:24.080 +0530	START		Running Cleanup.script	1	execute string	(null)
+2019-05-15 11:21:24.120 +0530	typetext		[windowsAltKey][F4]	1	on_cleanup	Cleanup.script
+2019-05-15 11:21:24.133 +0530	EndTestCase		(Duration:"0.035", Errors:"0", Exceptions:"0", StartTime:"2019-05-15 11:21:24 +0530", Successes:"1", TestCase:"Cleanup.script", Warnings:"0")	1	execute string	(null)
+2019-05-15 11:21:24.278 +0530	SUCCESS		Execution Time 0:00:00 Cleanup.script	1	execute string	(null)

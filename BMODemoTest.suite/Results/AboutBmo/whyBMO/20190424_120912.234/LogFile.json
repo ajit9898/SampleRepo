@@ -1,0 +1,60 @@
+{
+	"entries": [
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-04-24 12:09:12.234 +0530",
+				"message": "Running AboutBmo/whyBMO.script",
+				"identifier": "START",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "on_aboutbmo_whybmo",
+				"timestamp": "2019-04-24 12:09:16.145 +0530",
+				"message": "SEARCHRECTANGLE = (CorporateInformation_TL,HowWeHire_BR)",
+				"scriptName": "AboutBmo/whyBMO.script",
+				"handlerLine": 1,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_aboutbmo_whybmo",
+				"timestamp": "2019-04-24 12:09:17.386 +0530",
+				"scriptName": "AboutBmo/whyBMO.script",
+				"message": "at (732, 322)",
+				"image": "(TEXT:\"Why BMO\")",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_aboutbmo_whybmo",
+				"timestamp": "2019-04-24 12:09:17.386 +0530",
+				"message": "SEARCHRECTANGLE = ()",
+				"scriptName": "AboutBmo/whyBMO.script",
+				"handlerLine": 3,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_aboutbmo_whybmo",
+				"timestamp": "2019-04-24 12:09:48.842 +0530",
+				"scriptName": "AboutBmo/whyBMO.script",
+				"message": "found at (82, 53)",
+				"image": "ChromeRefresh",
+				"handlerLine": 5,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-04-24 12:09:48.852 +0530",
+				"message": "(Duration:\"36.608\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-04-24 12:09:12 +0530\", Successes:\"1\", TestCase:\"AboutBmo/whyBMO.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-04-24 12:09:49.102 +0530",
+				"message": "Execution Time 0:00:36 AboutBmo/whyBMO.script",
+				"identifier": "SUCCESS",
+				"handlerLine": 1
+			}
+	],
+	"createdTimestamp": "2019-04-24 06:39:12.244 +0000"
+}

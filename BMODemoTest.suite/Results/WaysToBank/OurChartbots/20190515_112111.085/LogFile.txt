@@ -1,0 +1,7 @@
+﻿2019-05-15 11:21:11.088 +0530	START		Running WaysToBank/OurChartbots.script	1	execute string	(null)
+2019-05-15 11:21:14.078 +0530	set		SEARCHRECTANGLE = (GetStarted_TL,FindyourBMOExperts_BR)	1	on_waystobank_ourchartbots	WaysToBank/OurChartbots.script
+2019-05-15 11:21:15.003 +0530	click	(TEXT:"Our Chatbots")	at (916, 339)	2	on_waystobank_ourchartbots	WaysToBank/OurChartbots.script
+2019-05-15 11:21:15.005 +0530	set		SEARCHRECTANGLE = ()	3	on_waystobank_ourchartbots	WaysToBank/OurChartbots.script
+2019-05-15 11:21:18.665 +0530	waitfor	ChromeRefresh	found at (82, 53)	5	on_waystobank_ourchartbots	WaysToBank/OurChartbots.script
+2019-05-15 11:21:18.673 +0530	EndTestCase		(Duration:"7.577", Errors:"0", Exceptions:"0", StartTime:"2019-05-15 11:21:11 +0530", Successes:"1", TestCase:"WaysToBank/OurChartbots.script", Warnings:"0")	1	execute string	(null)
+2019-05-15 11:21:18.900 +0530	SUCCESS		Execution Time 0:00:07 WaysToBank/OurChartbots.script	1	execute string	(null)

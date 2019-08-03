@@ -1,0 +1,10 @@
+﻿Set the ImageUpdate to off
+if ImageFound("FinancialPlanning")
+	Click FoundImageLocation()
+else If ImageFound(text:"Financial") then
+	click FoundWebLocation()
+else
+	LogError "image not found"
+end if
+
+

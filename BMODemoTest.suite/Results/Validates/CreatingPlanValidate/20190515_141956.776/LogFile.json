@@ -1,0 +1,51 @@
+{
+	"entries": [
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 14:19:56.796 +0530",
+				"message": "Running Validates/CreatingPlanValidate.script",
+				"identifier": "START",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "on_validates_creatingplanvalidate",
+				"timestamp": "2019-05-15 14:20:05.746 +0530",
+				"message": "The image (CaseSensitive:\"No\", Contrast:\"Off\", DPI:\"72\", EnableAggressiveTextExtraction:\"No\", EnhanceLocalContrast:\"No\", IgnoreNewLines:\"No\", IgnoreSpaces:\"No\", Language:\"English\", text:\"Creating Your Plan\", TextPlatform:\"Generic OCR\", TextStyleName:\"Default\", ValidCharacters:\"\", ValidPattern:\"\", ValidWords:\"\") was found on the screen 2 times",
+				"scriptName": "Validates/CreatingPlanValidate.script",
+				"handlerLine": 1,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_validates_creatingplanvalidate",
+				"timestamp": "2019-05-15 14:20:05.746 +0530",
+				"scriptName": "Validates/CreatingPlanValidate.script",
+				"message": "found at (92, 17)",
+				"image": "(TEXT:\"Creating Your Plan\")",
+				"handlerLine": 1,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validates_creatingplanvalidate",
+				"timestamp": "2019-05-15 14:20:05.756 +0530",
+				"message": "Page validated",
+				"scriptName": "Validates/CreatingPlanValidate.script",
+				"handlerLine": 2,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 14:20:05.766 +0530",
+				"message": "(Duration:\"8.97\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-05-15 14:19:56 +0530\", Successes:\"1\", TestCase:\"Validates/CreatingPlanValidate.script\", Warnings:\"1\")",
+				"identifier": "EndTestCase",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 14:20:05.916 +0530",
+				"message": "Execution Time 0:00:09 Validates/CreatingPlanValidate.script",
+				"identifier": "SUCCESS",
+				"handlerLine": 1
+			}
+	],
+	"createdTimestamp": "2019-05-15 08:49:56.796 +0000"
+}

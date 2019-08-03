@@ -1,0 +1,7 @@
+﻿2019-05-15 11:20:14.624 +0530	START		Running AboutBmo/AnnualReport.script	1	execute string	(null)
+2019-05-15 11:20:21.267 +0530	set		SEARCHRECTANGLE = (CorporateInformation_TL,HowWeHire_BR)	1	on_aboutbmo_annualreport	AboutBmo/AnnualReport.script
+2019-05-15 11:20:25.044 +0530	click	(TEXT:"Annual Report")	at (444, 430)	2	on_aboutbmo_annualreport	AboutBmo/AnnualReport.script
+2019-05-15 11:20:25.049 +0530	set		SEARCHRECTANGLE = ()	3	on_aboutbmo_annualreport	AboutBmo/AnnualReport.script
+2019-05-15 11:20:32.977 +0530	waitfor	ChromeRefresh	found at (82, 53)	5	on_aboutbmo_annualreport	AboutBmo/AnnualReport.script
+2019-05-15 11:20:32.982 +0530	EndTestCase		(Duration:"18.346", Errors:"0", Exceptions:"0", StartTime:"2019-05-15 11:20:14 +0530", Successes:"1", TestCase:"AboutBmo/AnnualReport.script", Warnings:"0")	1	execute string	(null)
+2019-05-15 11:20:33.115 +0530	SUCCESS		Execution Time 0:00:18 AboutBmo/AnnualReport.script	1	execute string	(null)

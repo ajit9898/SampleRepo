@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Master_script" package="BMODemoTest.suite" timestamp="2019-04-09 16:55:44.441 +0530"
+ tests="1"  failures="1" errors="1" time="197.169000">
+  <properties>
+   <property name="RunDate" value="2019-04-09 16:55:44.441 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Master.script" assertions="8" status="error"  time="197.149">
+    <failure type="FAILURE" message="Image Not Found click Error - No Image Found On Screen: &quot;BrowserBack&quot; -- Execution Time 0:03:17 Master.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;BrowserBack&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

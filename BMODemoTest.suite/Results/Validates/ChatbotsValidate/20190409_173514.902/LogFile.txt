@@ -1,0 +1,4 @@
+﻿2019-04-09 17:35:14.932 +0530	START		Running Validates/ChatbotsValidate.script	1	execute string	(null)
+2019-04-09 17:35:28.922 +0530	imagefound	Chatbotsicon	Unable to Find Image Chatbotsicon	1	on_validates_chatbotsvalidate	Validates/ChatbotsValidate.script
+2019-04-09 17:35:28.942 +0530	EndTestCase		(Duration:"14", Errors:"1", Exceptions:"0", StartTime:"2019-04-09 17:35:14 +0530", Successes:"0", TestCase:"Validates/ChatbotsValidate.script", Warnings:"0")	1	execute string	(null)
+2019-04-09 17:35:29.014 +0530	ABORTED		Execution Time 0:00:14 Validates/ChatbotsValidate.script	1	execute string	(null)

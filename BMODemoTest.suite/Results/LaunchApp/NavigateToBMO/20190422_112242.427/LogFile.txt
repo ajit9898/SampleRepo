@@ -1,0 +1,3 @@
+﻿2019-04-22 11:22:42.437 +0530	START		Running LaunchApp/NavigateToBMO.script	1	execute string	(null)
+2019-04-22 11:22:43.552 +0530	EndTestCase		(Duration:"1.09", Errors:"1", Exceptions:"0", StartTime:"2019-04-22 11:22:42 +0530", Successes:"0", TestCase:"LaunchApp/NavigateToBMO.script", Warnings:"0")	1	execute string	(null)
+2019-04-22 11:22:44.039 +0530	FAILURE		Connection Failed Unable to connect to Server:192.168.1.58 on port:5900\nUnable to Contact Server: 192.168.1.58:5900 (10061:Connection refused)\n -- Execution Time 0:00:01 LaunchApp/NavigateToBMO.script	1	execute string	(null)

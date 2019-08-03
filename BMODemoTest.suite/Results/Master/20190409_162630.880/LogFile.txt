@@ -1,0 +1,39 @@
+﻿2019-04-09 16:26:30.890 +0530	START		Running Master.script
+2019-04-09 16:26:31.020 +0530	connect		AjitSystem:(null)	1	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-04-09 16:26:31.020 +0530	show		Remote	2	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-04-09 16:26:31.060 +0530	typetext		[windowsKey]r	3	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-04-09 16:26:31.910 +0530	typetext		Chrome[return]	4	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-04-09 16:26:34.600 +0530	typetext		https://www.bmo.com/main/personal[return]	6	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-04-09 16:26:35.330 +0530	typetext		[windowsKey][upArrow]	7	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-04-09 16:26:37.310 +0530	waitfor	BMOLogo	found at (158, 164)	9	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-04-09 16:26:41.000 +0530	click	Loans	at (776, 163)	1	on_landingpage_loans	LandingPage/Loans.script
+2019-04-09 16:26:42.530 +0530	set		SEARCHRECTANGLE = (LoanCal_TL,LoanCalc_BR)	2	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-04-09 16:26:49.620 +0530	click	(TEXT:"Loan Calculators")	at (842, 395)	3	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-04-09 16:26:49.620 +0530	set		SEARCHRECTANGLE = ()	4	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-04-09 16:27:13.846 +0530	waitfor	ChromeRefresh	found at (82, 53)	6	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-04-09 16:27:14.216 +0530	imagefound	Amortization	found at (35, 226)	2	on_validates_loancalcvalidate	Validates/LoanCalcValidate.script
+2019-04-09 16:27:14.216 +0530	LogSuccess		we found the image	3	on_validates_loancalcvalidate	Validates/LoanCalcValidate.script
+2019-04-09 16:27:14.556 +0530	waitfor	closeButtonLoanPage	found at (561, 95)	10	on_validates_loancalcvalidate	Validates/LoanCalcValidate.script
+2019-04-09 16:27:15.666 +0530	click	closeButtonLoanPage	at (561, 95)	11	on_validates_loancalcvalidate	Validates/LoanCalcValidate.script
+2019-04-09 16:27:15.886 +0530	waitfor	ChromeRefresh	found at (82, 53)	12	on_validates_loancalcvalidate	Validates/LoanCalcValidate.script
+2019-04-09 16:27:17.721 +0530	click	BankAccounts	at (499, 165)	1	on_landingpage_bankaccounts	LandingPage/BankAccounts.script
+2019-04-09 16:27:19.531 +0530	click	FeaturesToBAg	at (868, 372)	3	on_bankaccounts_bankingagreements	BankAccounts/BankingAgreements.script
+2019-04-09 16:27:32.315 +0530	waitfor	ChromeRefresh.png	found at (82, 53)	8	on_bankaccounts_bankingagreements	BankAccounts/BankingAgreements.script
+2019-04-09 16:27:38.035 +0530	imagefound	(TEXT:"Banking Fees")	found at (675, 314)	1	on_validates_bankingagreementvalidate	Validates/BankingAgreementValidate.script
+2019-04-09 16:27:38.035 +0530	LogSuccess		Page validated	2	on_validates_bankingagreementvalidate	Validates/BankingAgreementValidate.script
+2019-04-09 16:27:39.095 +0530	click	BrowserBack	at (15, 50)	1	on_backbr	BackBR.script
+2019-04-09 16:27:39.305 +0530	waitfor	ChromeRefresh	found at (82, 53)	2	on_backbr	BackBR.script
+2019-04-09 16:27:43.465 +0530	click	BankAccounts	at (499, 165)	1	on_landingpage_bankaccounts	LandingPage/BankAccounts.script
+2019-04-09 16:27:45.045 +0530	set		SEARCHRECTANGLE = (BankAcounts_TL,BankingAcounts_BR)	1	on_bankaccounts_bankingservices	BankAccounts/BankingServices.script
+2019-04-09 16:27:46.495 +0530	click	(TEXT:"Banking Services")	at (863, 344)	2	on_bankaccounts_bankingservices	BankAccounts/BankingServices.script
+2019-04-09 16:27:46.495 +0530	set		SEARCHRECTANGLE = 	3	on_bankaccounts_bankingservices	BankAccounts/BankingServices.script
+2019-04-09 16:27:52.736 +0530	waitfor	ChromeRefresh.png	found at (82, 53)	5	on_bankaccounts_bankingservices	BankAccounts/BankingServices.script
+2019-04-09 16:27:59.455 +0530	imagefound	(TEXT:"Banking Services")	found at (675, 491)	1	on_validates_bankingservicesvalidate	Validates/BankingServicesValidate.script
+2019-04-09 16:27:59.465 +0530	LogSuccess		Page validated	2	on_validates_bankingservicesvalidate	Validates/BankingServicesValidate.script
+2019-04-09 16:28:00.385 +0530	click	BrowserBack	at (15, 50)	1	on_backbr	BackBR.script
+2019-04-09 16:28:00.625 +0530	waitfor	ChromeRefresh	found at (82, 53)	2	on_backbr	BackBR.script
+2019-04-09 16:28:01.605 +0530	click	FinancialPlanning	at (913, 164)	1	on_landingpage_finacialplanning	LandingPage/FinacialPlanning.script
+2019-04-09 16:28:28.496 +0530	set		SEARCHRECTANGLE = (PlanningtoRetire_TL,EducationSavings_BR)	1	on_financialplanning_gettingmarried	FinancialPlanning/GettingMarried.script
+2019-04-09 16:28:28.516 +0530	Exception	Getting Married	Could Not Open Image: Getting Married	2	on_financialplanning_gettingmarried	FinancialPlanning/GettingMarried.script
+2019-04-09 16:28:28.665 +0530	EndTestCase		(Duration:"117.775", Errors:"1", Exceptions:"1", StartTime:"2019-04-09 16:26:30 +0530", Successes:"3", TestCase:"Master.script", Warnings:"0")
+2019-04-09 16:28:29.865 +0530	FAILURE	Screen_Error.png	File Not Found click Error - Could Not Open Image: Getting Married -- Execution Time 0:01:58 Master.script

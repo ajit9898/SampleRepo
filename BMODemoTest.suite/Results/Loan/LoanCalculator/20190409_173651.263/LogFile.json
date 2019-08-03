@@ -1,0 +1,60 @@
+{
+	"entries": [
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-04-09 17:36:51.343 +0530",
+				"message": "Running Loan/LoanCalculator.script",
+				"identifier": "START",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "on_loan_loancalculator",
+				"timestamp": "2019-04-09 17:36:53.427 +0530",
+				"message": "SEARCHRECTANGLE = (LoanCal_TL,LoanCalc_BR)",
+				"scriptName": "Loan/LoanCalculator.script",
+				"handlerLine": 2,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_loan_loancalculator",
+				"timestamp": "2019-04-09 17:36:54.522 +0530",
+				"scriptName": "Loan/LoanCalculator.script",
+				"message": "at (842, 395)",
+				"image": "(TEXT:\"Loan Calculators\")",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_loan_loancalculator",
+				"timestamp": "2019-04-09 17:36:54.522 +0530",
+				"message": "SEARCHRECTANGLE = ()",
+				"scriptName": "Loan/LoanCalculator.script",
+				"handlerLine": 4,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_loan_loancalculator",
+				"timestamp": "2019-04-09 17:37:17.856 +0530",
+				"scriptName": "Loan/LoanCalculator.script",
+				"message": "found at (82, 53)",
+				"image": "ChromeRefresh",
+				"handlerLine": 6,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-04-09 17:37:17.856 +0530",
+				"message": "(Duration:\"26.513\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-04-09 17:36:51 +0530\", Successes:\"1\", TestCase:\"Loan/LoanCalculator.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-04-09 17:37:18.056 +0530",
+				"message": "Execution Time 0:00:26 Loan/LoanCalculator.script",
+				"identifier": "SUCCESS",
+				"handlerLine": 1
+			}
+	],
+	"createdTimestamp": "2019-04-09 12:06:51.343 +0000"
+}

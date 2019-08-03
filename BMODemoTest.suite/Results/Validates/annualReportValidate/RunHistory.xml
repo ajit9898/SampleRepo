@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Validates/annualReportValidate">
+ <run>
+  <RunDate>2019-04-09 17:36:14.953 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.956000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190409_173614.953/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-15 11:20:38.595 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.567000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190515_112038.595/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

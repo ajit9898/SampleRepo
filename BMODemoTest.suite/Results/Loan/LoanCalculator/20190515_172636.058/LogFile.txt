@@ -1,0 +1,11 @@
+﻿2019-05-15 17:26:36.076 +0530	START		Running Loan/LoanCalculator.script	1	execute string	(null)
+2019-05-15 17:26:36.093 +0530	set		IMAGEUPDATE = Off	2	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-05-15 17:27:15.377 +0530	imagefound	(TEXT:"Loans Calculators")	Unable to Find Image (TEXT:"Loans Calculators")	3	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-05-15 17:27:58.747 +0530	imagefound	(TEXT:"Loan Calculators")	Unable to Find Image (TEXT:"Loan Calculators")	5	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-05-15 17:28:37.497 +0530	imagefound	(TEXT:"Loan Calculator")	Unable to Find Image (TEXT:"Loan Calculator")	8	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-05-15 17:28:37.804 +0530	set		SEARCHRECTANGLE = (LoanCal_TL,LoanCalc_BR/LoanCalc_BR)	12	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-05-15 17:28:38.029 +0530	click	(TEXT:"Loans Calculator")	at (466, 475)	13	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-05-15 17:28:38.034 +0530	set		SEARCHRECTANGLE = ()	14	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-05-15 17:28:41.139 +0530	waitfor	ChromeRefresh	found at (82, 53)	16	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-05-15 17:28:41.143 +0530	EndTestCase		(Duration:"125.061", Errors:"0", Exceptions:"0", StartTime:"2019-05-15 17:26:36 +0530", Successes:"1", TestCase:"Loan/LoanCalculator.script", Warnings:"0")	1	execute string	(null)
+2019-05-15 17:28:41.257 +0530	SUCCESS		Execution Time 0:02:05 Loan/LoanCalculator.script	1	execute string	(null)

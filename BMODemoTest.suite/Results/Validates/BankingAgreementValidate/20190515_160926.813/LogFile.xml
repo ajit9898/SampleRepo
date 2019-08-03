@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Validates/BankingAgreementValidate_script" package="BMODemoTest.suite" timestamp="2019-05-15 16:09:26.813 +0530"
+ tests="1"  failures="2" errors="0" time="48.571000">
+  <properties>
+   <property name="RunDate" value="2019-05-15 16:09:26.813 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Validates/BankingAgreementValidate.script" assertions="1" status="failure"  time="48.566">
+    <failure type="LogError" message="Page not validated" />
+    <failure type="FAILURE" message="Script Error Number of Errors logged: 1 -- Execution Time 0:00:49 Validates/BankingAgreementValidate.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

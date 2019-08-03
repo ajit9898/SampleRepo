@@ -1,0 +1,3 @@
+﻿2019-04-09 17:34:50.598 +0530	START		Running WaysToBank/OurChartbots.script	1	execute string	(null)
+2019-04-09 17:35:12.019 +0530	EndTestCase		(Duration:"21.421", Errors:"1", Exceptions:"0", StartTime:"2019-04-09 17:34:50 +0530", Successes:"0", TestCase:"WaysToBank/OurChartbots.script", Warnings:"0")	1	execute string	(null)
+2019-04-09 17:35:12.069 +0530	ABORTED		Execution Time 0:00:22 WaysToBank/OurChartbots.script	1	execute string	(null)

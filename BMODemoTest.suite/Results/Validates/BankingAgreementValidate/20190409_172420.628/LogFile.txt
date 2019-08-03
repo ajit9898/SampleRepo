@@ -1,0 +1,5 @@
+﻿2019-04-09 17:24:20.648 +0530	START		Running Validates/BankingAgreementValidate.script	1	execute string	(null)
+2019-04-09 17:24:25.981 +0530	imagefound	(TEXT:"Banking Fees")	found at (675, 314)	1	on_validates_bankingagreementvalidate	Validates/BankingAgreementValidate.script
+2019-04-09 17:24:25.991 +0530	LogSuccess		Page validated	2	on_validates_bankingagreementvalidate	Validates/BankingAgreementValidate.script
+2019-04-09 17:24:26.001 +0530	EndTestCase		(Duration:"5.343", Errors:"0", Exceptions:"0", StartTime:"2019-04-09 17:24:20 +0530", Successes:"1", TestCase:"Validates/BankingAgreementValidate.script", Warnings:"0")	1	execute string	(null)
+2019-04-09 17:24:26.131 +0530	SUCCESS		Execution Time 0:00:05 Validates/BankingAgreementValidate.script	1	execute string	(null)

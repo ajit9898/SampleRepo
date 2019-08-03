@@ -1,0 +1,10 @@
+﻿Set the ImageUpdate to off
+If ImageFound("Download") then
+	LogSuccess "Page validated"
+Else If ImageFound(text:"Annual Report") then
+	LogSuccess "Page validated"
+	
+Else
+	LogError "Page did not validated"
+	
+End if

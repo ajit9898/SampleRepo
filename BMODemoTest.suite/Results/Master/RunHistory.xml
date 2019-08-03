@@ -1,0 +1,351 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Master">
+ <run>
+  <RunDate>2019-04-09 15:09:03.069 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>75.206000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190409_150903.069/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;BankAccounts&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-04-09 15:12:51.929 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>82.590000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190409_151251.929/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;closeLoanPage&quot; within 20.00 seconds</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-04-09 15:19:12.888 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>4.999000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190409_151912.888/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-04-09 15:20:54.933 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>44.342000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190409_152054.933/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: Banking Agreements</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-04-09 15:24:22.349 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>65.905000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190409_152422.349/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-04-09 15:28:35.710 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>69.702000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190409_152835.710/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-04-09 15:32:35.121 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>60.930000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190409_153235.121/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-04-09 15:36:07.749 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>72.706000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190409_153607.749/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- set Error - Unable To Find Image: BankingAgreements_TL</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-04-09 15:40:58.716 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>80.289000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190409_154058.716/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-04-09 15:44:05.660 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>59.116000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190409_154405.660/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-04-09 15:49:13.704 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>91.884000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20190409_154913.704/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- set Error - Unable To Find Image: BankAcounts_TL</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-04-09 15:52:28.923 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>82.190000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20190409_155228.923/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-04-09 15:56:24.802 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>68.072000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20190409_155624.802/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: Banking Services</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-04-09 16:04:34.317 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>71.089000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20190409_160434.317/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: Banking Services</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-04-09 16:11:45.915 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>132.501000</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>3</Successes>
+  <LogFile>20190409_161145.915/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-04-09 16:26:30.880 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>117.785000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>3</Successes>
+  <LogFile>20190409_162630.880/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: Getting Married</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-04-09 16:32:44.976 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>117.878000</Duration>
+  <Errors>1</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>3</Successes>
+  <LogFile>20190409_163244.976/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-04-09 16:36:26.949 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>122.429000</Duration>
+  <Errors>1</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20190409_163626.949/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: Creating your Plan</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-04-09 16:39:17.191 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>146.859000</Duration>
+  <Errors>1</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>5</Successes>
+  <LogFile>20190409_163917.191/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- set Error - Invalid Rectangle: (GetStarted_TL,FindyourBMOExperts_BR,(Image:&quot;Chatbotsicon&quot;, WaitFor:&quot;241&quot;))</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-04-09 16:42:42.114 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>185.081000</Duration>
+  <Errors>1</Errors>
+  <Warnings>4</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>6</Successes>
+  <LogFile>20190409_164242.114/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-04-09 16:50:08.977 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>216.379000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>7</Successes>
+  <LogFile>20190409_165008.977/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-04-09 16:55:44.441 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>197.169000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>7</Successes>
+  <LogFile>20190409_165544.441/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;BrowserBack&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-04-24 11:59:53.770 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>27.682000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190424_115953.770/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-04-24 12:00:42.584 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>187.650000</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20190424_120042.584/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-14 17:46:45.567 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>28.509000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190514_174645.567/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-14 17:47:32.938 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>34.372000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190514_174732.938/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-14 17:48:53.578 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>53.489000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190514_174853.578/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- set Error - Unable To Find Image: LoanCal_TL</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-15 09:57:17.262 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>127.191000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190515_095717.262/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- set Error - Unable To Find Image: LoanCal_TL</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-15 10:03:54.039 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>80.194000</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190515_100354.039/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Text Found On Screen: &quot;(TEXT:&quot;Loans Calculators&quot;)&quot;</ErrorMessage>
+ </run>
+</runHistory>

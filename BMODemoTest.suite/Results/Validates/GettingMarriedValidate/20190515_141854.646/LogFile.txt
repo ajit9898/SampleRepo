@@ -1,0 +1,6 @@
+﻿2019-05-15 14:18:54.646 +0530	START		Running Validates/GettingMarriedValidate.script	1	execute string	(null)
+2019-05-15 14:19:04.404 +0530	LogWarning		The image (CaseSensitive:"No", Contrast:"Off", DPI:"72", EnableAggressiveTextExtraction:"No", EnhanceLocalContrast:"No", IgnoreNewLines:"No", IgnoreSpaces:"No", Language:"English", text:"Getting married", TextPlatform:"Generic OCR", TextStyleName:"Default", ValidCharacters:"", ValidPattern:"", ValidWords:"") was found on the screen 2 times	1	on_validates_gettingmarriedvalidate	Validates/GettingMarriedValidate.script
+2019-05-15 14:19:04.409 +0530	imagefound	(TEXT:"Getting married")	found at (85, 17)	1	on_validates_gettingmarriedvalidate	Validates/GettingMarriedValidate.script
+2019-05-15 14:19:04.418 +0530	LogSuccess		Page validated	2	on_validates_gettingmarriedvalidate	Validates/GettingMarriedValidate.script
+2019-05-15 14:19:04.427 +0530	EndTestCase		(Duration:"9.778", Errors:"0", Exceptions:"0", StartTime:"2019-05-15 14:18:54 +0530", Successes:"1", TestCase:"Validates/GettingMarriedValidate.script", Warnings:"1")	1	execute string	(null)
+2019-05-15 14:19:04.585 +0530	SUCCESS		Execution Time 0:00:10 Validates/GettingMarriedValidate.script	1	execute string	(null)

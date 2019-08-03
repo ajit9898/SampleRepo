@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Validates/LoanCalcValidate_script" package="BMODemoTest.suite" timestamp="2019-05-15 15:47:26.664 +0530"
+ tests="1"  failures="0" errors="0" time="49.616000">
+  <properties>
+   <property name="RunDate" value="2019-05-15 15:47:26.664 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="Validates/LoanCalcValidate.script" assertions="2" status="error"  time="49.609">
+    <error type="Exception" message="Unable To Find Any Image On Screen &quot;closeButtonLoanPage&quot; within 20.00 seconds" />
+  </testcase>
+ </testsuite>
+</testsuites>

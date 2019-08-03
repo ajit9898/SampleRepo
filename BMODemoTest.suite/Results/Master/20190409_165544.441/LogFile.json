@@ -1,0 +1,592 @@
+{
+	"entries": [
+		{
+				"message": "Running Master.script",
+				"identifier": "START",
+				"timestamp": "2019-04-09 16:55:44.451 +0530"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-04-09 16:55:44.581 +0530",
+				"message": "AjitSystem:(null)",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 1,
+				"identifier": "connect"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-04-09 16:55:44.581 +0530",
+				"message": "Remote",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 2,
+				"identifier": "show"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-04-09 16:55:44.621 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-04-09 16:55:45.471 +0530",
+				"message": "Chrome[return]",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-04-09 16:55:48.161 +0530",
+				"message": "https://www.bmo.com/main/personal[return]",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-04-09 16:55:48.891 +0530",
+				"message": "[windowsKey][upArrow]",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 7,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-04-09 16:55:50.691 +0530",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"message": "found at (158, 164)",
+				"image": "BMOLogo",
+				"handlerLine": 9,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_landingpage_loans",
+				"timestamp": "2019-04-09 16:55:54.381 +0530",
+				"scriptName": "LandingPage/Loans.script",
+				"message": "at (776, 163)",
+				"image": "Loans",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_loan_loancalculator",
+				"timestamp": "2019-04-09 16:55:56.651 +0530",
+				"message": "SEARCHRECTANGLE = (LoanCal_TL,LoanCalc_BR)",
+				"scriptName": "Loan/LoanCalculator.script",
+				"handlerLine": 2,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_loan_loancalculator",
+				"timestamp": "2019-04-09 16:55:57.781 +0530",
+				"scriptName": "Loan/LoanCalculator.script",
+				"message": "at (842, 395)",
+				"image": "(TEXT:\"Loan Calculators\")",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_loan_loancalculator",
+				"timestamp": "2019-04-09 16:55:57.781 +0530",
+				"message": "SEARCHRECTANGLE = ()",
+				"scriptName": "Loan/LoanCalculator.script",
+				"handlerLine": 4,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_loan_loancalculator",
+				"timestamp": "2019-04-09 16:56:20.173 +0530",
+				"scriptName": "Loan/LoanCalculator.script",
+				"message": "found at (82, 53)",
+				"image": "ChromeRefresh",
+				"handlerLine": 6,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_validates_loancalcvalidate",
+				"timestamp": "2019-04-09 16:56:20.553 +0530",
+				"scriptName": "Validates/LoanCalcValidate.script",
+				"message": "found at (35, 226)",
+				"image": "Amortization",
+				"handlerLine": 2,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validates_loancalcvalidate",
+				"timestamp": "2019-04-09 16:56:20.563 +0530",
+				"message": "we found the image",
+				"scriptName": "Validates/LoanCalcValidate.script",
+				"handlerLine": 3,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validates_loancalcvalidate",
+				"timestamp": "2019-04-09 16:56:20.813 +0530",
+				"scriptName": "Validates/LoanCalcValidate.script",
+				"message": "found at (561, 95)",
+				"image": "closeButtonLoanPage",
+				"handlerLine": 10,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_validates_loancalcvalidate",
+				"timestamp": "2019-04-09 16:56:21.293 +0530",
+				"scriptName": "Validates/LoanCalcValidate.script",
+				"message": "at (561, 95)",
+				"image": "closeButtonLoanPage",
+				"handlerLine": 11,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_validates_loancalcvalidate",
+				"timestamp": "2019-04-09 16:56:21.403 +0530",
+				"scriptName": "Validates/LoanCalcValidate.script",
+				"message": "found at (82, 53)",
+				"image": "ChromeRefresh",
+				"handlerLine": 12,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_landingpage_bankaccounts",
+				"timestamp": "2019-04-09 16:56:23.353 +0530",
+				"scriptName": "LandingPage/BankAccounts.script",
+				"message": "at (499, 165)",
+				"image": "BankAccounts",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_bankaccounts_bankingagreements",
+				"timestamp": "2019-04-09 16:56:25.023 +0530",
+				"scriptName": "BankAccounts/BankingAgreements.script",
+				"message": "at (868, 372)",
+				"image": "FeaturesToBAg",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_bankaccounts_bankingagreements",
+				"timestamp": "2019-04-09 16:56:39.564 +0530",
+				"scriptName": "BankAccounts/BankingAgreements.script",
+				"message": "found at (82, 53)",
+				"image": "ChromeRefresh.png",
+				"handlerLine": 8,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_validates_bankingagreementvalidate",
+				"timestamp": "2019-04-09 16:56:43.824 +0530",
+				"scriptName": "Validates/BankingAgreementValidate.script",
+				"message": "found at (675, 314)",
+				"image": "(TEXT:\"Banking Fees\")",
+				"handlerLine": 1,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validates_bankingagreementvalidate",
+				"timestamp": "2019-04-09 16:56:43.824 +0530",
+				"message": "Page validated",
+				"scriptName": "Validates/BankingAgreementValidate.script",
+				"handlerLine": 2,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_backbr",
+				"timestamp": "2019-04-09 16:56:44.734 +0530",
+				"scriptName": "BackBR.script",
+				"message": "at (15, 50)",
+				"image": "BrowserBack",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_backbr",
+				"timestamp": "2019-04-09 16:56:44.904 +0530",
+				"scriptName": "BackBR.script",
+				"message": "found at (82, 53)",
+				"image": "ChromeRefresh",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_landingpage_bankaccounts",
+				"timestamp": "2019-04-09 16:56:49.264 +0530",
+				"scriptName": "LandingPage/BankAccounts.script",
+				"message": "at (499, 165)",
+				"image": "BankAccounts",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_bankaccounts_bankingservices",
+				"timestamp": "2019-04-09 16:56:50.634 +0530",
+				"message": "SEARCHRECTANGLE = (BankAcounts_TL,BankingAcounts_BR)",
+				"scriptName": "BankAccounts/BankingServices.script",
+				"handlerLine": 1,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_bankaccounts_bankingservices",
+				"timestamp": "2019-04-09 16:56:52.084 +0530",
+				"scriptName": "BankAccounts/BankingServices.script",
+				"message": "at (863, 344)",
+				"image": "(TEXT:\"Banking Services\")",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_bankaccounts_bankingservices",
+				"timestamp": "2019-04-09 16:56:52.084 +0530",
+				"message": "SEARCHRECTANGLE = ",
+				"scriptName": "BankAccounts/BankingServices.script",
+				"handlerLine": 3,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_bankaccounts_bankingservices",
+				"timestamp": "2019-04-09 16:56:57.674 +0530",
+				"scriptName": "BankAccounts/BankingServices.script",
+				"message": "found at (82, 53)",
+				"image": "ChromeRefresh.png",
+				"handlerLine": 5,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_validates_bankingservicesvalidate",
+				"timestamp": "2019-04-09 16:57:04.254 +0530",
+				"scriptName": "Validates/BankingServicesValidate.script",
+				"message": "found at (675, 491)",
+				"image": "(TEXT:\"Banking Services\")",
+				"handlerLine": 1,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validates_bankingservicesvalidate",
+				"timestamp": "2019-04-09 16:57:04.264 +0530",
+				"message": "Page validated",
+				"scriptName": "Validates/BankingServicesValidate.script",
+				"handlerLine": 2,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_backbr",
+				"timestamp": "2019-04-09 16:57:04.644 +0530",
+				"scriptName": "BackBR.script",
+				"message": "at (15, 50)",
+				"image": "BrowserBack",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_backbr",
+				"timestamp": "2019-04-09 16:57:04.874 +0530",
+				"scriptName": "BackBR.script",
+				"message": "found at (82, 53)",
+				"image": "ChromeRefresh",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_landingpage_finacialplanning",
+				"timestamp": "2019-04-09 16:57:05.904 +0530",
+				"scriptName": "LandingPage/FinacialPlanning.script",
+				"message": "at (913, 164)",
+				"image": "FinancialPlanning",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_financialplanning_gettingmarried",
+				"timestamp": "2019-04-09 16:57:14.014 +0530",
+				"scriptName": "FinancialPlanning/GettingMarried.script",
+				"message": "at (373, 352)",
+				"image": "(TEXT:\"Getting Married\")",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_financialplanning_gettingmarried",
+				"timestamp": "2019-04-09 16:57:19.034 +0530",
+				"scriptName": "FinancialPlanning/GettingMarried.script",
+				"message": "found at (82, 53)",
+				"image": "ChromeRefresh.png",
+				"handlerLine": 5,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_validates_gettingmarriedvalidate",
+				"timestamp": "2019-04-09 16:57:33.344 +0530",
+				"scriptName": "Validates/GettingMarriedValidate.script",
+				"message": "found at (648, 291)",
+				"image": "(TEXT:\"Getting married\")",
+				"handlerLine": 1,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validates_gettingmarriedvalidate",
+				"timestamp": "2019-04-09 16:57:33.344 +0530",
+				"message": "Page validated",
+				"scriptName": "Validates/GettingMarriedValidate.script",
+				"handlerLine": 2,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_backbr",
+				"timestamp": "2019-04-09 16:57:34.524 +0530",
+				"scriptName": "BackBR.script",
+				"message": "at (15, 50)",
+				"image": "BrowserBack",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_backbr",
+				"timestamp": "2019-04-09 16:57:34.844 +0530",
+				"scriptName": "BackBR.script",
+				"message": "found at (82, 53)",
+				"image": "ChromeRefresh",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_landingpage_finacialplanning",
+				"timestamp": "2019-04-09 16:57:35.904 +0530",
+				"scriptName": "LandingPage/FinacialPlanning.script",
+				"message": "at (958, 163)",
+				"image": "FinancialPlanning",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_financialplanning_creatingyourplan",
+				"timestamp": "2019-04-09 16:57:38.514 +0530",
+				"message": "SEARCHRECTANGLE = (PlanningtoRetire_TL,EducationSavings_BR)",
+				"scriptName": "FinancialPlanning/CreatingYourPlan.script",
+				"handlerLine": 1,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_financialplanning_creatingyourplan",
+				"timestamp": "2019-04-09 16:57:40.464 +0530",
+				"scriptName": "FinancialPlanning/CreatingYourPlan.script",
+				"message": "at (611, 322)",
+				"image": "(TEXT:\"Creating your Plan\")",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_financialplanning_creatingyourplan",
+				"timestamp": "2019-04-09 16:57:40.464 +0530",
+				"message": "SEARCHRECTANGLE = ",
+				"scriptName": "FinancialPlanning/CreatingYourPlan.script",
+				"handlerLine": 3,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_financialplanning_creatingyourplan",
+				"timestamp": "2019-04-09 16:57:43.264 +0530",
+				"scriptName": "FinancialPlanning/CreatingYourPlan.script",
+				"message": "found at (82, 53)",
+				"image": "ChromeRefresh.png",
+				"handlerLine": 5,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_validates_creatingplanvalidate",
+				"timestamp": "2019-04-09 16:57:52.653 +0530",
+				"scriptName": "Validates/CreatingPlanValidate.script",
+				"message": "found at (573, 290)",
+				"image": "(TEXT:\"Creating Your Plan\")",
+				"handlerLine": 1,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validates_creatingplanvalidate",
+				"timestamp": "2019-04-09 16:57:52.653 +0530",
+				"message": "Page validated",
+				"scriptName": "Validates/CreatingPlanValidate.script",
+				"handlerLine": 2,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_backbr",
+				"timestamp": "2019-04-09 16:57:53.843 +0530",
+				"scriptName": "BackBR.script",
+				"message": "at (15, 50)",
+				"image": "BrowserBack",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_backbr",
+				"timestamp": "2019-04-09 16:57:54.103 +0530",
+				"scriptName": "BackBR.script",
+				"message": "found at (82, 53)",
+				"image": "ChromeRefresh",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_landingpage_waytobank",
+				"timestamp": "2019-04-09 16:57:54.953 +0530",
+				"scriptName": "LandingPage/WayToBank.script",
+				"message": "at (1137, 166)",
+				"image": "WaystoBank",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_waystobank_ourchartbots",
+				"timestamp": "2019-04-09 16:57:57.183 +0530",
+				"message": "SEARCHRECTANGLE = (GetStarted_TL,FindyourBMOExperts_BR)",
+				"scriptName": "WaysToBank/OurChartbots.script",
+				"handlerLine": 1,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_waystobank_ourchartbots",
+				"timestamp": "2019-04-09 16:57:58.423 +0530",
+				"scriptName": "WaysToBank/OurChartbots.script",
+				"message": "at (916, 321)",
+				"image": "(TEXT:\"Our Chatbots\")",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_waystobank_ourchartbots",
+				"timestamp": "2019-04-09 16:57:58.423 +0530",
+				"message": "SEARCHRECTANGLE = ()",
+				"scriptName": "WaysToBank/OurChartbots.script",
+				"handlerLine": 3,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_waystobank_ourchartbots",
+				"timestamp": "2019-04-09 16:58:14.003 +0530",
+				"scriptName": "WaysToBank/OurChartbots.script",
+				"message": "found at (82, 53)",
+				"image": "ChromeRefresh",
+				"handlerLine": 5,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_validates_chatbotsvalidate",
+				"timestamp": "2019-04-09 16:58:14.263 +0530",
+				"scriptName": "Validates/ChatbotsValidate.script",
+				"message": "found at (820, 230)",
+				"image": "Chatbotsicon",
+				"handlerLine": 1,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validates_chatbotsvalidate",
+				"timestamp": "2019-04-09 16:58:14.263 +0530",
+				"message": "page validated",
+				"scriptName": "Validates/ChatbotsValidate.script",
+				"handlerLine": 2,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_backbr",
+				"timestamp": "2019-04-09 16:58:14.953 +0530",
+				"scriptName": "BackBR.script",
+				"message": "at (15, 50)",
+				"image": "BrowserBack",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_backbr",
+				"timestamp": "2019-04-09 16:58:15.193 +0530",
+				"scriptName": "BackBR.script",
+				"message": "found at (82, 53)",
+				"image": "ChromeRefresh",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_landingpage_aboutbmo",
+				"timestamp": "2019-04-09 16:58:20.173 +0530",
+				"scriptName": "LandingPage/AboutBmo.script",
+				"message": "at (1237, 163)",
+				"image": "AboutBMO",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_aboutbmo_whybmo",
+				"timestamp": "2019-04-09 16:58:23.271 +0530",
+				"message": "SEARCHRECTANGLE = (CorporateInformation_TL,HowWeHire_BR)",
+				"scriptName": "AboutBmo/whyBMO.script",
+				"handlerLine": 1,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_aboutbmo_whybmo",
+				"timestamp": "2019-04-09 16:58:24.661 +0530",
+				"scriptName": "AboutBmo/whyBMO.script",
+				"message": "at (732, 322)",
+				"image": "(TEXT:\"Why BMO\")",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_aboutbmo_whybmo",
+				"timestamp": "2019-04-09 16:58:24.671 +0530",
+				"message": "SEARCHRECTANGLE = ()",
+				"scriptName": "AboutBmo/whyBMO.script",
+				"handlerLine": 3,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_aboutbmo_whybmo",
+				"timestamp": "2019-04-09 16:58:30.221 +0530",
+				"scriptName": "AboutBmo/whyBMO.script",
+				"message": "found at (82, 53)",
+				"image": "ChromeRefresh",
+				"handlerLine": 5,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_validates_whybmovalidate",
+				"timestamp": "2019-04-09 16:58:31.471 +0530",
+				"scriptName": "Validates/whyBMOValidate.script",
+				"message": "found at (158, 230)",
+				"image": "WhyBMOIcon",
+				"handlerLine": 1,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validates_whybmovalidate",
+				"timestamp": "2019-04-09 16:58:31.471 +0530",
+				"message": "page validated",
+				"scriptName": "Validates/whyBMOValidate.script",
+				"handlerLine": 2,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_backbr",
+				"timestamp": "2019-04-09 16:59:01.460 +0530",
+				"scriptName": "BackBR.script",
+				"message": "No Image Found On Screen: \"BrowserBack\"",
+				"image": "BrowserBack",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"197.149\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2019-04-09 16:55:44 +0530\", Successes:\"7\", TestCase:\"Master.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2019-04-09 16:59:01.610 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found click Error - No Image Found On Screen: \"BrowserBack\" -- Execution Time 0:03:17 Master.script",
+				"identifier": "FAILURE",
+				"timestamp": "2019-04-09 16:59:01.950 +0530"
+			}
+	],
+	"createdTimestamp": "2019-04-09 11:25:44.461 +0000"
+}

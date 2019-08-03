@@ -1,0 +1,101 @@
+{
+	"entries": [
+		{
+				"message": "Running LaunchApp/NavigateToBMO.script",
+				"identifier": "START",
+				"timestamp": "2019-05-30 15:00:59.715 +0530"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-05-30 15:00:59.808 +0530",
+				"message": "M_Wind:(null)",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 1,
+				"identifier": "connect"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-05-30 15:00:59.816 +0530",
+				"message": "Remote",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 2,
+				"identifier": "show"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-05-30 15:00:59.840 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-05-30 15:01:00.619 +0530",
+				"message": "Chrome[return]",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-05-30 15:01:02.622 +0530",
+				"message": "On (Screen_Trace)",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 6,
+				"identifier": "tracescreen"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-05-30 15:01:03.552 +0530",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"image": "Screen_Trace_0001.png",
+				"handlerLine": 8,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-05-30 15:01:03.952 +0530",
+				"message": "https://www.bmo.com/main/personal[return]",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 8,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-05-30 15:01:04.128 +0530",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"image": "Screen_Trace_0002.png",
+				"handlerLine": 9,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-05-30 15:01:04.676 +0530",
+				"message": "[windowsKey][upArrow]",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 9,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-05-30 15:01:05.890 +0530",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"message": "found at (158, 173)",
+				"image": "BMOLogo",
+				"handlerLine": 11,
+				"identifier": "waitfor"
+			},
+		{
+				"message": "(Duration:\"6.415\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-05-30 15:00:59 +0530\", Successes:\"1\", TestCase:\"LaunchApp/NavigateToBMO.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2019-05-30 15:01:06.135 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:07 LaunchApp/NavigateToBMO.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2019-05-30 15:01:06.347 +0530"
+			}
+	],
+	"createdTimestamp": "2019-05-30 09:30:59.718 +0000"
+}

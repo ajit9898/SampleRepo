@@ -1,0 +1,6 @@
+﻿2019-05-15 17:42:49.272 +0530	START		Running LandingPage/FinacialPlanning.script	1	execute string	(null)
+2019-05-15 17:42:49.280 +0530	set		IMAGEUPDATE = Off	1	on_landingpage_finacialplanning	LandingPage/FinacialPlanning.script
+2019-05-15 17:42:50.674 +0530	imagefound	FinancialPlanning	found at (958, 172)	2	on_landingpage_finacialplanning	LandingPage/FinacialPlanning.script
+2019-05-15 17:42:50.843 +0530	click		at (958, 172)	3	on_landingpage_finacialplanning	LandingPage/FinacialPlanning.script
+2019-05-15 17:42:50.848 +0530	EndTestCase		(Duration:"1.569", Errors:"0", Exceptions:"0", StartTime:"2019-05-15 17:42:49 +0530", Successes:"1", TestCase:"LandingPage/FinacialPlanning.script", Warnings:"0")	1	execute string	(null)
+2019-05-15 17:42:50.990 +0530	SUCCESS		Execution Time 0:00:01 LandingPage/FinacialPlanning.script	1	execute string	(null)

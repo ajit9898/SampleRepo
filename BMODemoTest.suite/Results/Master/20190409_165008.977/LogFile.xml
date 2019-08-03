@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Master_script" package="BMODemoTest.suite" timestamp="2019-04-09 16:50:08.977 +0530"
+ tests="1"  failures="0" errors="0" time="216.379000">
+  <properties>
+   <property name="RunDate" value="2019-04-09 16:50:08.977 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="Master.script" assertions="8" status="failure"  time="216.369">
+    <failure type="FAILURE" message="See main script" />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,4 @@
+﻿2019-05-15 13:39:47.963 +0530	START		Running LandingPage/BankAccounts.script	1	execute string	(null)
+2019-05-15 13:39:48.820 +0530	click	BankAccounts	at (499, 174)	1	on_landingpage_bankaccounts	LandingPage/BankAccounts.script
+2019-05-15 13:39:48.827 +0530	EndTestCase		(Duration:"0.857", Errors:"0", Exceptions:"0", StartTime:"2019-05-15 13:39:47 +0530", Successes:"1", TestCase:"LandingPage/BankAccounts.script", Warnings:"0")	1	execute string	(null)
+2019-05-15 13:39:49.059 +0530	SUCCESS		Execution Time 0:00:01 LandingPage/BankAccounts.script	1	execute string	(null)

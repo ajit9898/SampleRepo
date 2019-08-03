@@ -1,0 +1,7 @@
+﻿2019-05-15 15:47:26.668 +0530	START		Running Validates/LoanCalcValidate.script
+2019-05-15 15:47:49.849 +0530	imagefound	Amortization	Unable to Find Image Amortization	2	on_validates_loancalcvalidate	Validates/LoanCalcValidate.script
+2019-05-15 15:47:49.950 +0530	imagefound	Interestrate_LoanCalcpage	found at (541, 657)	4	on_validates_loancalcvalidate	Validates/LoanCalcValidate.script
+2019-05-15 15:47:49.953 +0530	LogSuccess		we found the image	5	on_validates_loancalcvalidate	Validates/LoanCalcValidate.script
+2019-05-15 15:48:15.975 +0530	Exception	closeButtonLoanPage	Unable To Find Any Image On Screen "closeButtonLoanPage" within 20.00 seconds	14	on_validates_loancalcvalidate	Validates/LoanCalcValidate.script
+2019-05-15 15:48:16.281 +0530	EndTestCase		(Duration:"49.609", Errors:"1", Exceptions:"1", StartTime:"2019-05-15 15:47:26 +0530", Successes:"1", TestCase:"Validates/LoanCalcValidate.script", Warnings:"0")
+2019-05-15 15:48:16.336 +0530	ABORTED		Execution Time 0:00:50 Validates/LoanCalcValidate.script

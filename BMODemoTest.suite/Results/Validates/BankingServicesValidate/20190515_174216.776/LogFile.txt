@@ -1,0 +1,7 @@
+﻿2019-05-15 17:42:16.799 +0530	START		Running Validates/BankingServicesValidate.script	1	execute string	(null)
+2019-05-15 17:42:16.807 +0530	set		IMAGEUPDATE = Off	1	on_validates_bankingservicesvalidate	Validates/BankingServicesValidate.script
+2019-05-15 17:42:22.113 +0530	LogWarning		The image (CaseSensitive:"No", Contrast:"Off", DPI:"72", EnableAggressiveTextExtraction:"No", EnhanceLocalContrast:"No", IgnoreNewLines:"No", IgnoreSpaces:"No", Language:"English", text:"Banking Services", TextPlatform:"Generic OCR", TextStyleName:"Default", ValidCharacters:"", ValidPattern:"", ValidWords:"") was found on the screen 2 times	2	on_validates_bankingservicesvalidate	Validates/BankingServicesValidate.script
+2019-05-15 17:42:22.117 +0530	imagefound	(TEXT:"Banking Services")	found at (87, 17)	2	on_validates_bankingservicesvalidate	Validates/BankingServicesValidate.script
+2019-05-15 17:42:22.124 +0530	LogSuccess		Page validated	3	on_validates_bankingservicesvalidate	Validates/BankingServicesValidate.script
+2019-05-15 17:42:22.130 +0530	EndTestCase		(Duration:"5.324", Errors:"0", Exceptions:"0", StartTime:"2019-05-15 17:42:16 +0530", Successes:"1", TestCase:"Validates/BankingServicesValidate.script", Warnings:"1")	1	execute string	(null)
+2019-05-15 17:42:22.276 +0530	SUCCESS		Execution Time 0:00:06 Validates/BankingServicesValidate.script	1	execute string	(null)

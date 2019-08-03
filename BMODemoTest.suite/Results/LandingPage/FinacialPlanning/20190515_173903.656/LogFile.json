@@ -1,0 +1,59 @@
+{
+	"entries": [
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 17:39:03.672 +0530",
+				"message": "Running LandingPage/FinacialPlanning.script",
+				"identifier": "START",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "on_landingpage_finacialplanning",
+				"timestamp": "2019-05-15 17:39:03.681 +0530",
+				"message": "IMAGEUPDATE = Off",
+				"scriptName": "LandingPage/FinacialPlanning.script",
+				"handlerLine": 1,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_landingpage_finacialplanning",
+				"timestamp": "2019-05-15 17:39:04.328 +0530",
+				"message": "The image FinancialPlanning was found on the screen 10 times",
+				"scriptName": "LandingPage/FinacialPlanning.script",
+				"handlerLine": 2,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_landingpage_finacialplanning",
+				"timestamp": "2019-05-15 17:39:04.335 +0530",
+				"scriptName": "LandingPage/FinacialPlanning.script",
+				"message": "found at (958, 172)",
+				"image": "FinancialPlanning",
+				"handlerLine": 2,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_landingpage_finacialplanning",
+				"timestamp": "2019-05-15 17:39:04.548 +0530",
+				"message": "at (958, 172)",
+				"scriptName": "LandingPage/FinacialPlanning.script",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 17:39:04.553 +0530",
+				"message": "(Duration:\"0.873\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-05-15 17:39:03 +0530\", Successes:\"1\", TestCase:\"LandingPage/FinacialPlanning.script\", Warnings:\"1\")",
+				"identifier": "EndTestCase",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 17:39:04.644 +0530",
+				"message": "Execution Time 0:00:01 LandingPage/FinacialPlanning.script",
+				"identifier": "SUCCESS",
+				"handlerLine": 1
+			}
+	],
+	"createdTimestamp": "2019-05-15 12:09:03.677 +0000"
+}

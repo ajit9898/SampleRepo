@@ -1,0 +1,13 @@
+﻿2019-05-15 10:03:54.052 +0530	START		Running Master.script
+2019-05-15 10:03:54.204 +0530	connect		M_Wind:(null)	1	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-05-15 10:03:54.207 +0530	show		Remote	2	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-05-15 10:03:54.229 +0530	typetext		[windowsKey]r	3	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-05-15 10:03:55.019 +0530	typetext		Chrome[return]	4	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-05-15 10:03:57.462 +0530	typetext		https://www.bmo.com/main/personal[return]	6	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-05-15 10:03:58.184 +0530	typetext		[windowsKey][upArrow]	7	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-05-15 10:03:58.914 +0530	waitfor	BMOLogo	found at (166, 173)	9	on_launchapp_navigatetobmo	LaunchApp/NavigateToBMO.script
+2019-05-15 10:04:02.587 +0530	click	Loans	at (770, 154)	1	on_landingpage_loans	LandingPage/Loans.script
+2019-05-15 10:04:53.915 +0530	LogWarning		OCR Text read in search rect: 4r\tO\tBank of Montreal [CA] | https://wvwv.bmo.com/main/personal\nPersonal\nWealth Business Commercial Capital Markets\n☆ ® O\nLogin\no\nUMO f~l Bank of Montreal\nBank\nAccounts\nCredit Cards Mortgages\nLoans &\nLines of Investments\nCredit\nFinancial\nPlanning\nTravel\nServices\nWays to\nBank\nAbout BMO\nGet our 130-day\nmortgage rate\nguarantee.**\nPlus, up to $2,000 in a cash bonus '\nLEARN MORE\n\n\n\nf\n*\n9\n' r\nv\n%\nIs e 01\nWhat would you like to do today?\nQ Have questions?\n„ n\n10:04 AM\n.\t£ 4\n15-May-19
+2019-05-15 10:05:14.010 +0530	Exception	(TEXT:"Loans Calculators")	No Text Found On Screen: "(TEXT:"Loans Calculators")"	3	on_loan_loancalculator	Loan/LoanCalculator.script
+2019-05-15 10:05:14.243 +0530	EndTestCase		(Duration:"80.176", Errors:"1", Exceptions:"1", StartTime:"2019-05-15 10:03:54 +0530", Successes:"0", TestCase:"Master.script", Warnings:"1")
+2019-05-15 10:05:14.943 +0530	FAILURE	Screen_Error.png	Image Not Found click Error - No Text Found On Screen: "(TEXT:"Loans Calculators")" -- Execution Time 0:01:20 Master.script

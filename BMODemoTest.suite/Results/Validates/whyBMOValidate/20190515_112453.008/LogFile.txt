@@ -1,0 +1,5 @@
+﻿2019-05-15 11:24:53.011 +0530	START		Running Validates/whyBMOValidate.script	1	execute string	(null)
+2019-05-15 11:24:57.048 +0530	imagefound	WhyBMOIcon	found at (158, 230)	1	on_validates_whybmovalidate	Validates/whyBMOValidate.script
+2019-05-15 11:24:57.048 +0530	LogSuccess		page validated	2	on_validates_whybmovalidate	Validates/whyBMOValidate.script
+2019-05-15 11:24:57.058 +0530	EndTestCase		(Duration:"4.042", Errors:"0", Exceptions:"0", StartTime:"2019-05-15 11:24:53 +0530", Successes:"1", TestCase:"Validates/whyBMOValidate.script", Warnings:"0")	1	execute string	(null)
+2019-05-15 11:24:57.283 +0530	SUCCESS		Execution Time 0:00:04 Validates/whyBMOValidate.script	1	execute string	(null)

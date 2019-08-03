@@ -1,0 +1,11 @@
+﻿Connect "M_Wind"
+Show Remote
+TypeText windowsKey,r
+TypeText "Chrome",return
+wait 2
+TraceScreen on
+
+TypeText"https://www.bmo.com/main/personal",return
+TypeText windowsKey,upArrow
+
+WaitFor 120, "BMOLogo"

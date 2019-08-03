@@ -1,0 +1,46 @@
+{
+	"entries": [
+		{
+				"message": "Running Validates/LoanCalcValidate.script",
+				"identifier": "START",
+				"timestamp": "2019-05-15 15:51:10.942 +0530"
+			},
+		{
+				"handlerName": "on_validates_loancalcvalidate",
+				"timestamp": "2019-05-15 15:51:11.164 +0530",
+				"scriptName": "Validates/LoanCalcValidate.script",
+				"message": "found at (541, 657)",
+				"image": "Interestrate_LoanCalcpage",
+				"handlerLine": 2,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validates_loancalcvalidate",
+				"timestamp": "2019-05-15 15:51:11.166 +0530",
+				"message": "we found the image",
+				"scriptName": "Validates/LoanCalcValidate.script",
+				"handlerLine": 3,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validates_loancalcvalidate",
+				"timestamp": "2019-05-15 15:51:11.208 +0530",
+				"scriptName": "Validates/LoanCalcValidate.script",
+				"message": "found at (82, 53)",
+				"image": "ChromeRefresh",
+				"handlerLine": 16,
+				"identifier": "waitfor"
+			},
+		{
+				"message": "(Duration:\"0.452\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-05-15 15:51:10 +0530\", Successes:\"1\", TestCase:\"Validates/LoanCalcValidate.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2019-05-15 15:51:11.401 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:01 Validates/LoanCalcValidate.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2019-05-15 15:51:11.536 +0530"
+			}
+	],
+	"createdTimestamp": "2019-05-15 10:21:10.946 +0000"
+}

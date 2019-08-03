@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Master_script" package="BMODemoTest.suite" timestamp="2019-04-24 12:00:42.584 +0530"
+ tests="1"  failures="0" errors="0" time="187.650000">
+  <properties>
+   <property name="RunDate" value="2019-04-24 12:00:42.584 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="Master.script" assertions="5" status="error"  time="187.644">
+    <error type="Exception" message="Searching For Image: OCR Error: Operation was aborted" />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Validates/GettingMarriedValidate">
+ <run>
+  <RunDate>2019-05-15 14:18:54.646 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>9.778000</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190515_141854.646/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-15 17:39:33.815 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>10.809000</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190515_173933.815/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-15 17:43:13.941 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>11.281000</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190515_174313.941/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

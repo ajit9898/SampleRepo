@@ -1,0 +1,35 @@
+{
+	"entries": [
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-04-09 17:26:24.248 +0530",
+				"message": "Running LandingPage/FinacialPlanning.script",
+				"identifier": "START",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "on_landingpage_finacialplanning",
+				"timestamp": "2019-04-09 17:26:25.190 +0530",
+				"scriptName": "LandingPage/FinacialPlanning.script",
+				"message": "at (958, 163)",
+				"image": "FinancialPlanning",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-04-09 17:26:25.190 +0530",
+				"message": "(Duration:\"0.932\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-04-09 17:26:24 +0530\", Successes:\"1\", TestCase:\"LandingPage/FinacialPlanning.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-04-09 17:26:25.290 +0530",
+				"message": "Execution Time 0:00:01 LandingPage/FinacialPlanning.script",
+				"identifier": "SUCCESS",
+				"handlerLine": 1
+			}
+	],
+	"createdTimestamp": "2019-04-09 11:56:24.248 +0000"
+}

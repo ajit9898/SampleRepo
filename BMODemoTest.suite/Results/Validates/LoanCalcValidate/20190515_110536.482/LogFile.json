@@ -1,0 +1,35 @@
+{
+	"entries": [
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 11:05:36.489 +0530",
+				"message": "Running Validates/LoanCalcValidate.script",
+				"identifier": "START",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "on_validates_loancalcvalidate",
+				"timestamp": "2019-05-15 11:06:03.403 +0530",
+				"scriptName": "Validates/LoanCalcValidate.script",
+				"message": "Unable to Find Image Amortization",
+				"image": "Amortization",
+				"handlerLine": 2,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 11:06:03.416 +0530",
+				"message": "(Duration:\"26.909\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2019-05-15 11:05:36 +0530\", Successes:\"0\", TestCase:\"Validates/LoanCalcValidate.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 11:06:03.543 +0530",
+				"message": "Execution Time 0:00:27 Validates/LoanCalcValidate.script",
+				"identifier": "ABORTED",
+				"handlerLine": 1
+			}
+	],
+	"createdTimestamp": "2019-05-15 05:35:36.501 +0000"
+}

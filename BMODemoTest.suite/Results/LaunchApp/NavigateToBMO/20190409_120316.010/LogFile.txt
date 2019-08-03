@@ -1,0 +1,8 @@
+﻿2019-04-09 12:03:16.016 +0530	START		Running NavigateToBMO.script
+2019-04-09 12:03:18.003 +0530	connect		AjitSystem:(null)	1	on_navigatetobmo	NavigateToBMO.script
+2019-04-09 12:03:18.005 +0530	show		Remote	2	on_navigatetobmo	NavigateToBMO.script
+2019-04-09 12:03:18.028 +0530	typetext		[windowsKey]r	3	on_navigatetobmo	NavigateToBMO.script
+2019-04-09 12:03:18.807 +0530	typetext		Chrome[return]	4	on_navigatetobmo	NavigateToBMO.script
+2019-04-09 12:03:21.187 +0530	typetext		https://www.bmo.com/main/personal[return]	6	on_navigatetobmo	NavigateToBMO.script
+2019-04-09 12:03:21.262 +0530	EndTestCase		(Duration:"5.076", Errors:"0", Exceptions:"0", StartTime:"2019-04-09 12:03:16 +0530", Successes:"1", TestCase:"NavigateToBMO.script", Warnings:"0")
+2019-04-09 12:03:21.366 +0530	SUCCESS		Execution Time 0:00:05 NavigateToBMO.script

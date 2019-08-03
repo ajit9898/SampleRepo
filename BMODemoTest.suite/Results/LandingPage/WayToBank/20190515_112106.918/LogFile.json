@@ -1,0 +1,35 @@
+{
+	"entries": [
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 11:21:06.925 +0530",
+				"message": "Running LandingPage/WayToBank.script",
+				"identifier": "START",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "on_landingpage_waytobank",
+				"timestamp": "2019-05-15 11:21:07.998 +0530",
+				"scriptName": "LandingPage/WayToBank.script",
+				"message": "at (1137, 175)",
+				"image": "WaystoBank",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 11:21:08.003 +0530",
+				"message": "(Duration:\"1.062\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-05-15 11:21:06 +0530\", Successes:\"1\", TestCase:\"LandingPage/WayToBank.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 11:21:08.210 +0530",
+				"message": "Execution Time 0:00:02 LandingPage/WayToBank.script",
+				"identifier": "SUCCESS",
+				"handlerLine": 1
+			}
+	],
+	"createdTimestamp": "2019-05-15 05:51:06.935 +0000"
+}

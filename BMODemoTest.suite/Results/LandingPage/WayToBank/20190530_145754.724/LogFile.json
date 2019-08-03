@@ -1,0 +1,67 @@
+{
+	"entries": [
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-30 14:57:54.730 +0530",
+				"message": "Running LandingPage/WayToBank.script",
+				"identifier": "START",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "on_landingpage_waytobank",
+				"timestamp": "2019-05-30 14:57:54.781 +0530",
+				"message": "IMAGEUPDATE = Off",
+				"scriptName": "LandingPage/WayToBank.script",
+				"handlerLine": 2,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_landingpage_waytobank",
+				"timestamp": "2019-05-30 14:58:01.862 +0530",
+				"scriptName": "LandingPage/WayToBank.script",
+				"image": "Screen_Trace_0003.png",
+				"handlerLine": 3,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_landingpage_waytobank",
+				"timestamp": "2019-05-30 14:58:01.865 +0530",
+				"scriptName": "LandingPage/WayToBank.script",
+				"message": "found at (1137, 164)",
+				"image": "(TEXT:\"Ways to\")",
+				"handlerLine": 3,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_landingpage_waytobank",
+				"timestamp": "2019-05-30 14:58:03.781 +0530",
+				"scriptName": "LandingPage/WayToBank.script",
+				"image": "Screen_Trace_0004.png",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_landingpage_waytobank",
+				"timestamp": "2019-05-30 14:58:03.864 +0530",
+				"message": "at (1137, 164)",
+				"scriptName": "LandingPage/WayToBank.script",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-30 14:58:03.877 +0530",
+				"message": "(Duration:\"9.136\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-05-30 14:57:54 +0530\", Successes:\"1\", TestCase:\"LandingPage/WayToBank.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-30 14:58:04.056 +0530",
+				"message": "Execution Time 0:00:09 LandingPage/WayToBank.script",
+				"identifier": "SUCCESS",
+				"handlerLine": 1
+			}
+	],
+	"createdTimestamp": "2019-05-30 09:27:54.736 +0000"
+}

@@ -1,0 +1,195 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Validates/whyBMOValidate">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2019-04-09 17:38:20 +0530</FirstRun>
+  <LastRun>2019-05-15 17:29:45 +0530</LastRun>
+  <TotalTimeOnSuccess>8.254000</TotalTimeOnSuccess>
+ </script>
+ <script name="Validates/LoanCalcValidate">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>7</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2019-04-09 17:37:19 +0530</FirstRun>
+  <LastRun>2019-05-30 14:54:42 +0530</LastRun>
+  <TotalTimeOnSuccess>29.073000</TotalTimeOnSuccess>
+ </script>
+ <script name="Master">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>14</NumberOfRuns>
+  <NumberOfFails>14</NumberOfFails>
+  <FirstRun>2019-04-09 15:09:03 +0530</FirstRun>
+  <LastRun>2019-05-15 10:03:54 +0530</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="FinancialPlanning/GettingMarried">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2019-05-15 14:18:26 +0530</FirstRun>
+  <LastRun>2019-05-15 17:42:54 +0530</LastRun>
+  <TotalTimeOnSuccess>63.885000</TotalTimeOnSuccess>
+ </script>
+ <script name="Validates/GettingMarriedValidate">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2019-05-15 14:18:54 +0530</FirstRun>
+  <LastRun>2019-05-15 17:43:13 +0530</LastRun>
+  <TotalTimeOnSuccess>31.868000</TotalTimeOnSuccess>
+ </script>
+ <script name="FinancialPlanning/CreatingYourPlan">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2019-04-09 17:26:28 +0530</FirstRun>
+  <LastRun>2019-05-30 14:56:43 +0530</LastRun>
+  <TotalTimeOnSuccess>58.973000</TotalTimeOnSuccess>
+ </script>
+ <script name="Loan/LoanCalculator">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>7</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2019-04-09 17:36:51 +0530</FirstRun>
+  <LastRun>2019-05-30 14:54:32 +0530</LastRun>
+  <TotalTimeOnSuccess>311.423000</TotalTimeOnSuccess>
+ </script>
+ <script name="Validates/CreatingPlanValidate">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2019-04-09 17:26:36 +0530</FirstRun>
+  <LastRun>2019-05-30 14:56:55 +0530</LastRun>
+  <TotalTimeOnSuccess>46.295000</TotalTimeOnSuccess>
+ </script>
+ <script name="Validates/BankingServicesValidate">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2019-04-24 12:26:53 +0530</FirstRun>
+  <LastRun>2019-05-15 17:42:16 +0530</LastRun>
+  <TotalTimeOnSuccess>41.564000</TotalTimeOnSuccess>
+ </script>
+ <script name="LaunchApp/NavigateToBMO">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>36</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2019-04-09 12:03:16 +0530</FirstRun>
+  <LastRun>2019-05-30 15:00:59 +0530</LastRun>
+  <TotalTimeOnSuccess>255.320000</TotalTimeOnSuccess>
+ </script>
+ <script name="BankAccounts/BankingServices">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2019-04-24 12:26:30 +0530</FirstRun>
+  <LastRun>2019-05-15 17:41:57 +0530</LastRun>
+  <TotalTimeOnSuccess>101.624000</TotalTimeOnSuccess>
+ </script>
+ <script name="Validates/annualReportValidate">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2019-04-09 17:36:14 +0530</FirstRun>
+  <LastRun>2019-05-15 11:20:38 +0530</LastRun>
+  <TotalTimeOnSuccess>2.523000</TotalTimeOnSuccess>
+ </script>
+ <script name="AboutBmo/AnnualReport">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2019-04-09 17:36:05 +0530</FirstRun>
+  <LastRun>2019-05-15 11:20:14 +0530</LastRun>
+  <TotalTimeOnSuccess>25.750000</TotalTimeOnSuccess>
+ </script>
+ <script name="Cleanup">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>29</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2019-04-09 17:24:27 +0530</FirstRun>
+  <LastRun>2019-05-30 14:58:20 +0530</LastRun>
+  <TotalTimeOnSuccess>2.914000</TotalTimeOnSuccess>
+ </script>
+ <script name="BankAccounts/BankingAgreements">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2019-04-09 17:24:10 +0530</FirstRun>
+  <LastRun>2019-05-15 17:41:08 +0530</LastRun>
+  <TotalTimeOnSuccess>49.328000</TotalTimeOnSuccess>
+ </script>
+ <script name="WaysToBank/OurChartbots">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2019-04-24 12:25:02 +0530</FirstRun>
+  <LastRun>2019-05-30 14:58:05 +0530</LastRun>
+  <TotalTimeOnSuccess>34.132000</TotalTimeOnSuccess>
+ </script>
+ <script name="AboutBmo/whyBMO">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2019-04-09 17:37:57 +0530</FirstRun>
+  <LastRun>2019-05-15 17:29:25 +0530</LastRun>
+  <TotalTimeOnSuccess>187.056000</TotalTimeOnSuccess>
+ </script>
+ <script name="Validates/BankingAgreementValidate">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2019-04-09 17:24:20 +0530</FirstRun>
+  <LastRun>2019-05-15 17:41:17 +0530</LastRun>
+  <TotalTimeOnSuccess>9.019000</TotalTimeOnSuccess>
+ </script>
+ <script name="Validates/ChatbotsValidate">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2019-05-15 11:21:21 +0530</FirstRun>
+  <LastRun>2019-05-30 14:58:16 +0530</LastRun>
+  <TotalTimeOnSuccess>5.161000</TotalTimeOnSuccess>
+ </script>
+ <script name="LandingPage/Loans">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>7</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2019-04-09 17:36:47 +0530</FirstRun>
+  <LastRun>2019-05-30 14:54:12 +0530</LastRun>
+  <TotalTimeOnSuccess>44.676000</TotalTimeOnSuccess>
+ </script>
+ <script name="LandingPage/WayToBank">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>6</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2019-04-09 17:27:18 +0530</FirstRun>
+  <LastRun>2019-05-30 14:57:54 +0530</LastRun>
+  <TotalTimeOnSuccess>19.787000</TotalTimeOnSuccess>
+ </script>
+ <script name="LandingPage/AboutBmo">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>6</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2019-04-09 17:36:02 +0530</FirstRun>
+  <LastRun>2019-05-15 17:29:16 +0530</LastRun>
+  <TotalTimeOnSuccess>10.686000</TotalTimeOnSuccess>
+ </script>
+ <script name="LandingPage/FinacialPlanning">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>7</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2019-04-09 17:26:24 +0530</FirstRun>
+  <LastRun>2019-05-30 14:56:39 +0530</LastRun>
+  <TotalTimeOnSuccess>8.320000</TotalTimeOnSuccess>
+ </script>
+ <script name="LandingPage/BankAccounts">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>8</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2019-04-09 17:24:06 +0530</FirstRun>
+  <LastRun>2019-05-15 17:41:53 +0530</LastRun>
+  <TotalTimeOnSuccess>31.100000</TotalTimeOnSuccess>
+ </script>
+</statistics>

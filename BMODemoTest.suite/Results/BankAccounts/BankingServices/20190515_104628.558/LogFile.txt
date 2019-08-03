@@ -1,0 +1,7 @@
+﻿2019-05-15 10:46:28.563 +0530	START		Running BankAccounts/BankingServices.script	1	execute string	(null)
+2019-05-15 10:46:31.208 +0530	set		SEARCHRECTANGLE = (BankAcounts_TL,BankingAcounts_BR)	1	on_bankaccounts_bankingservices	BankAccounts/BankingServices.script
+2019-05-15 10:46:33.223 +0530	click	(TEXT:"Banking Services")	at (863, 362)	2	on_bankaccounts_bankingservices	BankAccounts/BankingServices.script
+2019-05-15 10:46:33.228 +0530	set		SEARCHRECTANGLE = 	3	on_bankaccounts_bankingservices	BankAccounts/BankingServices.script
+2019-05-15 10:46:50.771 +0530	waitfor	ChromeRefresh.png	found at (82, 53)	5	on_bankaccounts_bankingservices	BankAccounts/BankingServices.script
+2019-05-15 10:46:50.776 +0530	EndTestCase		(Duration:"22.201", Errors:"0", Exceptions:"0", StartTime:"2019-05-15 10:46:28 +0530", Successes:"1", TestCase:"BankAccounts/BankingServices.script", Warnings:"0")	1	execute string	(null)
+2019-05-15 10:46:50.911 +0530	SUCCESS		Execution Time 0:00:22 BankAccounts/BankingServices.script	1	execute string	(null)

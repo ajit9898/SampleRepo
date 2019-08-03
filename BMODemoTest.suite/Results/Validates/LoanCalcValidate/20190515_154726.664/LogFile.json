@@ -1,0 +1,55 @@
+{
+	"entries": [
+		{
+				"message": "Running Validates/LoanCalcValidate.script",
+				"identifier": "START",
+				"timestamp": "2019-05-15 15:47:26.668 +0530"
+			},
+		{
+				"handlerName": "on_validates_loancalcvalidate",
+				"timestamp": "2019-05-15 15:47:49.849 +0530",
+				"scriptName": "Validates/LoanCalcValidate.script",
+				"message": "Unable to Find Image Amortization",
+				"image": "Amortization",
+				"handlerLine": 2,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validates_loancalcvalidate",
+				"timestamp": "2019-05-15 15:47:49.950 +0530",
+				"scriptName": "Validates/LoanCalcValidate.script",
+				"message": "found at (541, 657)",
+				"image": "Interestrate_LoanCalcpage",
+				"handlerLine": 4,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validates_loancalcvalidate",
+				"timestamp": "2019-05-15 15:47:49.953 +0530",
+				"message": "we found the image",
+				"scriptName": "Validates/LoanCalcValidate.script",
+				"handlerLine": 5,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validates_loancalcvalidate",
+				"timestamp": "2019-05-15 15:48:15.975 +0530",
+				"scriptName": "Validates/LoanCalcValidate.script",
+				"message": "Unable To Find Any Image On Screen \"closeButtonLoanPage\" within 20.00 seconds",
+				"image": "closeButtonLoanPage",
+				"handlerLine": 14,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"49.609\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2019-05-15 15:47:26 +0530\", Successes:\"1\", TestCase:\"Validates/LoanCalcValidate.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2019-05-15 15:48:16.281 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:50 Validates/LoanCalcValidate.script",
+				"identifier": "ABORTED",
+				"timestamp": "2019-05-15 15:48:16.336 +0530"
+			}
+	],
+	"createdTimestamp": "2019-05-15 10:17:26.670 +0000"
+}

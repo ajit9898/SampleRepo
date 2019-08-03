@@ -1,0 +1,43 @@
+{
+	"entries": [
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-14 17:02:50.551 +0530",
+				"message": "Running Validates/CreatingPlanValidate.script",
+				"identifier": "START",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "on_validates_creatingplanvalidate",
+				"timestamp": "2019-05-14 17:03:08.956 +0530",
+				"scriptName": "Validates/CreatingPlanValidate.script",
+				"message": "found at (573, 290)",
+				"image": "(TEXT:\"Creating Your Plan\")",
+				"handlerLine": 1,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validates_creatingplanvalidate",
+				"timestamp": "2019-05-14 17:03:08.972 +0530",
+				"message": "Page validated",
+				"scriptName": "Validates/CreatingPlanValidate.script",
+				"handlerLine": 2,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-14 17:03:08.981 +0530",
+				"message": "(Duration:\"18.424\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-05-14 17:02:50 +0530\", Successes:\"1\", TestCase:\"Validates/CreatingPlanValidate.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-14 17:03:09.112 +0530",
+				"message": "Execution Time 0:00:18 Validates/CreatingPlanValidate.script",
+				"identifier": "SUCCESS",
+				"handlerLine": 1
+			}
+	],
+	"createdTimestamp": "2019-05-14 11:32:50.554 +0000"
+}

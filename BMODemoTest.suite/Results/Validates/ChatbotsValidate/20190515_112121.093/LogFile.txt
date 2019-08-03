@@ -1,0 +1,5 @@
+﻿2019-05-15 11:21:21.103 +0530	START		Running Validates/ChatbotsValidate.script	1	execute string	(null)
+2019-05-15 11:21:22.325 +0530	imagefound	Chatbotsicon	found at (820, 230)	1	on_validates_chatbotsvalidate	Validates/ChatbotsValidate.script
+2019-05-15 11:21:22.328 +0530	LogSuccess		page validated	2	on_validates_chatbotsvalidate	Validates/ChatbotsValidate.script
+2019-05-15 11:21:22.333 +0530	EndTestCase		(Duration:"1.22", Errors:"0", Exceptions:"0", StartTime:"2019-05-15 11:21:21 +0530", Successes:"1", TestCase:"Validates/ChatbotsValidate.script", Warnings:"0")	1	execute string	(null)
+2019-05-15 11:21:22.500 +0530	SUCCESS		Execution Time 0:00:01 Validates/ChatbotsValidate.script	1	execute string	(null)

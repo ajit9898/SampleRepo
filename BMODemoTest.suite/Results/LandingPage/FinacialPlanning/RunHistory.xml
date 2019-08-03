@@ -1,0 +1,87 @@
+﻿<?xml version="1.0"?>
+<runHistory script="LandingPage/FinacialPlanning">
+ <run>
+  <RunDate>2019-04-09 17:26:24.218 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.972000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190409_172624.218/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-14 17:02:07.380 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.259000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190514_170207.380/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-15 14:18:24.236 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.360000</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190515_141824.236/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-15 14:19:44.746 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.900000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190515_141944.746/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-15 17:39:03.656 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.895000</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190515_173903.656/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-15 17:42:49.267 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.579000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190515_174249.267/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-30 14:56:39.482 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>2.355000</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190530_145639.482/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

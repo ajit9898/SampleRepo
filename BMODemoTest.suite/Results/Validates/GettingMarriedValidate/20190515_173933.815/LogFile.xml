@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Validates/GettingMarriedValidate_script" package="BMODemoTest.suite" timestamp="2019-05-15 17:39:33.815 +0530"
+ tests="1"  failures="0" errors="0" time="10.809000">
+  <properties>
+   <property name="RunDate" value="2019-05-15 17:39:33.815 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Validates/GettingMarriedValidate.script" assertions="1" status="success"  time="10.799">
+  </testcase>
+ </testsuite>
+</testsuites>

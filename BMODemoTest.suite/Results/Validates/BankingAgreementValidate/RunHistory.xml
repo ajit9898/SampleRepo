@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Validates/BankingAgreementValidate">
+ <run>
+  <RunDate>2019-04-09 17:24:20.628 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>5.363000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190409_172420.628/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-15 11:26:49.568 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>82.135000</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190515_112649.568/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-15 16:09:26.813 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>48.571000</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190515_160926.813/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-15 17:41:17.346 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>3.656000</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190515_174117.346/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

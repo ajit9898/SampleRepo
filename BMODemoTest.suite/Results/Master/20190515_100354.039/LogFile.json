@@ -1,0 +1,101 @@
+{
+	"entries": [
+		{
+				"message": "Running Master.script",
+				"identifier": "START",
+				"timestamp": "2019-05-15 10:03:54.052 +0530"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-05-15 10:03:54.204 +0530",
+				"message": "M_Wind:(null)",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 1,
+				"identifier": "connect"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-05-15 10:03:54.207 +0530",
+				"message": "Remote",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 2,
+				"identifier": "show"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-05-15 10:03:54.229 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-05-15 10:03:55.019 +0530",
+				"message": "Chrome[return]",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-05-15 10:03:57.462 +0530",
+				"message": "https://www.bmo.com/main/personal[return]",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-05-15 10:03:58.184 +0530",
+				"message": "[windowsKey][upArrow]",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"handlerLine": 7,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchapp_navigatetobmo",
+				"timestamp": "2019-05-15 10:03:58.914 +0530",
+				"scriptName": "LaunchApp/NavigateToBMO.script",
+				"message": "found at (166, 173)",
+				"image": "BMOLogo",
+				"handlerLine": 9,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_landingpage_loans",
+				"timestamp": "2019-05-15 10:04:02.587 +0530",
+				"scriptName": "LandingPage/Loans.script",
+				"message": "at (770, 154)",
+				"image": "Loans",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"message": "OCR Text read in search rect: 4r\\tO\\tBank of Montreal [CA] | https://wvwv.bmo.com/main/personal\\nPersonal\\nWealth Business Commercial Capital Markets\\n☆ ® O\\nLogin\\no\\nUMO f~l Bank of Montreal\\nBank\\nAccounts\\nCredit Cards Mortgages\\nLoans &\\nLines of Investments\\nCredit\\nFinancial\\nPlanning\\nTravel\\nServices\\nWays to\\nBank\\nAbout BMO\\nGet our 130-day\\nmortgage rate\\nguarantee.**\\nPlus, up to $2,000 in a cash bonus '\\nLEARN MORE\\n\\n\\n\\nf\\n*\\n9\\n' r\\nv\\n%\\nIs e 01\\nWhat would you like to do today?\\nQ Have questions?\\n„ n\\n10:04 AM\\n.\\t£ 4\\n15-May-19",
+				"identifier": "LogWarning",
+				"timestamp": "2019-05-15 10:04:53.915 +0530"
+			},
+		{
+				"handlerName": "on_loan_loancalculator",
+				"timestamp": "2019-05-15 10:05:14.010 +0530",
+				"scriptName": "Loan/LoanCalculator.script",
+				"message": "No Text Found On Screen: \"(TEXT:\"Loans Calculators\")\"",
+				"image": "(TEXT:\"Loans Calculators\")",
+				"handlerLine": 3,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"80.176\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2019-05-15 10:03:54 +0530\", Successes:\"0\", TestCase:\"Master.script\", Warnings:\"1\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2019-05-15 10:05:14.243 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found click Error - No Text Found On Screen: \"(TEXT:\"Loans Calculators\")\" -- Execution Time 0:01:20 Master.script",
+				"identifier": "FAILURE",
+				"timestamp": "2019-05-15 10:05:14.943 +0530"
+			}
+	],
+	"createdTimestamp": "2019-05-15 04:33:54.054 +0000"
+}

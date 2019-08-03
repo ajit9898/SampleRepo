@@ -1,0 +1,21 @@
+﻿TraceScreen oN
+
+Set the ImageUpdate to off
+If ImageFound(text:"Loans Calculator") then
+	click FoundImageLocation()
+Else if ImageFound(text:"Loan Calculators") then
+	
+	click FoundImageLocation()
+Else If ImageFound(text:"Loan Calculator") then
+	
+	Click FoundImageLocation()
+Else
+	Set the SearchRectangle to ("LoanCal_TL","LoanCalc_BR/LoanCalc_BR")
+	Click text:"Loans Calculator"
+	set the searchrectangle to ()
+	Wait 2
+	WaitFor 45, "ChromeRefresh"
+	
+End if
+
+

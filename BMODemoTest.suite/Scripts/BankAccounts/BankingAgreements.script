@@ -1,0 +1,8 @@
+﻿//Set the SearchRectangle to ( "BankingAgreements_TL", "BankingAgreements_BR")
+//Click text:"Banking Agreements"
+Click "FeaturesToBAg"
+
+
+//set the searchrectangle to empty
+Wait 2
+WaitFor 30, "ChromeRefresh.png"

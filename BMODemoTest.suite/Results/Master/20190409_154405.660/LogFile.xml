@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Master_script" package="BMODemoTest.suite" timestamp="2019-04-09 15:44:05.660 +0530"
+ tests="1"  failures="0" errors="0" time="59.116000">
+  <properties>
+   <property name="RunDate" value="2019-04-09 15:44:05.660 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="Master.script" assertions="2" status="error"  time="59.106">
+    <error type="Exception" message="No Image Found On Screen: &quot;BankAccounts&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

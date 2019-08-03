@@ -1,0 +1,111 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Validates/LoanCalcValidate">
+ <run>
+  <RunDate>2019-04-09 17:37:19.998 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>2.491000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190409_173719.998/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-15 11:05:36.482 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>26.931000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190515_110536.482/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-15 15:47:01.878 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.220000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190515_154701.878/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- imagefound Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-15 15:47:26.664 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>49.616000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190515_154726.664/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-15 15:49:46.139 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>23.440000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190515_154946.139/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-15 15:51:10.938 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.462000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190515_155110.938/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-15 17:25:54.656 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.264000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190515_172554.656/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-15 17:28:43.044 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.255000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190515_172843.044/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-05-30 14:54:42.050 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>2.161000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190530_145442.050/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

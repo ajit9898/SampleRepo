@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Master_script" package="BMODemoTest.suite" timestamp="2019-04-09 15:56:24.802 +0530"
+ tests="1"  failures="1" errors="1" time="68.072000">
+  <properties>
+   <property name="RunDate" value="2019-04-09 15:56:24.802 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Master.script" assertions="3" status="error"  time="68.062">
+    <failure type="FAILURE" message="File Not Found click Error - Could Not Open Image: Banking Services -- Execution Time 0:01:08 Master.script" />
+    <error type="Exception" message="Could Not Open Image: Banking Services" />
+  </testcase>
+ </testsuite>
+</testsuites>

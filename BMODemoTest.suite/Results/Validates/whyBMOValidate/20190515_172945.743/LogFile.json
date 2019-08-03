@@ -1,0 +1,51 @@
+{
+	"entries": [
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 17:29:45.746 +0530",
+				"message": "Running Validates/whyBMOValidate.script",
+				"identifier": "START",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "on_validates_whybmovalidate",
+				"timestamp": "2019-05-15 17:29:45.776 +0530",
+				"message": "IMAGEUPDATE = Off",
+				"scriptName": "Validates/whyBMOValidate.script",
+				"handlerLine": 1,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_validates_whybmovalidate",
+				"timestamp": "2019-05-15 17:29:45.978 +0530",
+				"scriptName": "Validates/whyBMOValidate.script",
+				"message": "found at (158, 230)",
+				"image": "WhyBMOIcon",
+				"handlerLine": 2,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validates_whybmovalidate",
+				"timestamp": "2019-05-15 17:29:45.983 +0530",
+				"message": "page validated",
+				"scriptName": "Validates/whyBMOValidate.script",
+				"handlerLine": 3,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 17:29:45.990 +0530",
+				"message": "(Duration:\"0.239\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-05-15 17:29:45 +0530\", Successes:\"1\", TestCase:\"Validates/whyBMOValidate.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 17:29:46.152 +0530",
+				"message": "Execution Time 0:00:00 Validates/whyBMOValidate.script",
+				"identifier": "SUCCESS",
+				"handlerLine": 1
+			}
+	],
+	"createdTimestamp": "2019-05-15 11:59:45.749 +0000"
+}

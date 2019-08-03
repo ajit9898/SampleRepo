@@ -1,0 +1,59 @@
+{
+	"entries": [
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 17:39:33.819 +0530",
+				"message": "Running Validates/GettingMarriedValidate.script",
+				"identifier": "START",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "on_validates_gettingmarriedvalidate",
+				"timestamp": "2019-05-15 17:39:33.829 +0530",
+				"message": "IMAGEUPDATE = Off",
+				"scriptName": "Validates/GettingMarriedValidate.script",
+				"handlerLine": 1,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_validates_gettingmarriedvalidate",
+				"timestamp": "2019-05-15 17:39:44.607 +0530",
+				"message": "The image (CaseSensitive:\"No\", Contrast:\"Off\", DPI:\"72\", EnableAggressiveTextExtraction:\"No\", EnhanceLocalContrast:\"No\", IgnoreNewLines:\"No\", IgnoreSpaces:\"No\", Language:\"English\", text:\"Getting married\", TextPlatform:\"Generic OCR\", TextStyleName:\"Default\", ValidCharacters:\"\", ValidPattern:\"\", ValidWords:\"\") was found on the screen 2 times",
+				"scriptName": "Validates/GettingMarriedValidate.script",
+				"handlerLine": 2,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_validates_gettingmarriedvalidate",
+				"timestamp": "2019-05-15 17:39:44.610 +0530",
+				"scriptName": "Validates/GettingMarriedValidate.script",
+				"message": "found at (84, 17)",
+				"image": "(TEXT:\"Getting married\")",
+				"handlerLine": 2,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validates_gettingmarriedvalidate",
+				"timestamp": "2019-05-15 17:39:44.614 +0530",
+				"message": "Page validated",
+				"scriptName": "Validates/GettingMarriedValidate.script",
+				"handlerLine": 3,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 17:39:44.624 +0530",
+				"message": "(Duration:\"10.799\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-05-15 17:39:33 +0530\", Successes:\"1\", TestCase:\"Validates/GettingMarriedValidate.script\", Warnings:\"1\")",
+				"identifier": "EndTestCase",
+				"handlerLine": 1
+			},
+		{
+				"handlerName": "execute string",
+				"timestamp": "2019-05-15 17:39:44.950 +0530",
+				"message": "Execution Time 0:00:11 Validates/GettingMarriedValidate.script",
+				"identifier": "SUCCESS",
+				"handlerLine": 1
+			}
+	],
+	"createdTimestamp": "2019-05-15 12:09:33.825 +0000"
+}

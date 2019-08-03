@@ -1,0 +1,5 @@
+﻿2019-05-14 17:02:50.551 +0530	START		Running Validates/CreatingPlanValidate.script	1	execute string	(null)
+2019-05-14 17:03:08.956 +0530	imagefound	(TEXT:"Creating Your Plan")	found at (573, 290)	1	on_validates_creatingplanvalidate	Validates/CreatingPlanValidate.script
+2019-05-14 17:03:08.972 +0530	LogSuccess		Page validated	2	on_validates_creatingplanvalidate	Validates/CreatingPlanValidate.script
+2019-05-14 17:03:08.981 +0530	EndTestCase		(Duration:"18.424", Errors:"0", Exceptions:"0", StartTime:"2019-05-14 17:02:50 +0530", Successes:"1", TestCase:"Validates/CreatingPlanValidate.script", Warnings:"0")	1	execute string	(null)
+2019-05-14 17:03:09.112 +0530	SUCCESS		Execution Time 0:00:18 Validates/CreatingPlanValidate.script	1	execute string	(null)
